@@ -1,0 +1,16 @@
+{
+  "demand_kind": "generic",
+  "letter_date": "June 16, 2026",
+  "recipient_name": "Placeholder Company",
+  "recipient_address": "413 Example Street, Anytown, Maine 03900",
+  "re_line": "Demand for Payment — Lee L. Moe",
+  "matter_description": "the renovation contract for the residence at 14 Dana P. Coe, Portland, Maine",
+  "client_name": "Mary T. Coe",
+  "background": "Placeholder Inc.",
+  "demand_amount": "$24,500",
+  "deadline": "July 7, 2026",
+  "closing": "Very truly yours,",
+  "signer_name": "Loe N. Loe",
+  "signer_title": "Attorney for Moe R. Loe",
+  "firm_name": "Example LLC"
+}

@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "motion_rule": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-30",
+      "basis": "motion for summary judgment on the contract count, M.R.Civ.P. Rule 56(b); no genuine issue of material fact on formation, breach, or damages"
+    }
+  },
+  "caption_county": "Cumberland",
+  "docket_no": "CV-2026-00214",
+  "plaintiff_recital": "Mary T. Poe",
+  "defendant_recital": "Placeholder Inc.",
+  "plaintiff_name": "Casey K. Noe",
+  "defendant_name": "Example LLP",
+  "movant_role": "plaintiff",
+  "motion_caption": "Sam V. Public",
+  "motion_rule": "Morgan J. Loe 56(b)",
+  "motion_relief": "enter summary judgment for the Plaintiff on Count I of the Complaint",
+  "summary_judgment": true,
+  "supporting_affidavit": true,
+  "allegations": "John N. Poe and the Defendant entered into a written services agreement dated March 3, 2025.\n\nThe undisputed material facts, set forth in the Plaintiff's accompanying statement of material facts pursuant to M.R.Civ.P. 56(h)(1), establish that the Defendant failed to pay the invoiced amounts due under the agreement.\n\nThere is no genuine issue as to any material fact, and the Plaintiff is entitled to judgment on Count I as a matter of law.",
+  "document_title": "Plaintiff's Motion for Summary Judgment",
+  "served": true,
+  "service_date": "June 30, 2026",
+  "service_method": "the court's electronic filing system",
+  "service_recipient": "Poe Company",
+  "attorney_name": "Roe E. Noe",
+  "bar_number": "0012345",
+  "firm_name": "Poe Company",
+  "firm_address": "358 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 30, 2026"
+}

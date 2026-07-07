@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "poa_effectiveness": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "principal wants the agent's authority to spring into effect only on a physician's written determination of incapacity (18-C M.R.S. § 5-909(3))"
+    }
+  },
+  "poa_effectiveness": "springing",
+  "principal_name": "Reese A. Moe",
+  "principal_municipality": "Casey D. Moe",
+  "principal_county": "York",
+  "principal_state": "Maine",
+  "agent_name": "Quinn M. Doe",
+  "agent_address": "227 Example Street, Anytown, Maine 03900",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Jane H. Loe",
+  "notary_commission_expires": "March 14, 2031",
+  "principal_capacity": "competent"
+}

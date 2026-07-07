@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "declaration_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "creation of a condominium under 33 M.R.S. § 1602-101; declaration executed in the same manner as a deed and recorded"
+    },
+    "action": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "initial declaration creating the condominium (declare), not an amendment"
+    }
+  },
+  "declaration_kind": "condominium",
+  "action": "declare",
+  "declarant_capacity": "entity_officer",
+  "declarant": "Placeholder Cooperative",
+  "declarant_address": "221 Loe Street, Anytown, Maine 03900",
+  "declaration_name": "Declaration of Robin L. Moe",
+  "municipality": "Portland",
+  "county": "Cumberland",
+  "legal_description": "A certain lot or parcel of land located on the easterly side of Dana F. Loe in Portland, County of Cumberland, State of Maine, being Lot 2 as shown on a plan recorded in the Cumberland County Registry of Deeds in Book 240, Page 12.",
+  "common_element_interest": "25.0",
+  "limited_common_elements": "the parking space and storage area designated on the condominium plan as appurtenant to each Unit",
+  "use_restrictions": "Robin F. Roe may be used for any purpose other than single-family residential occupancy. Robin F. Roe may be leased for a term of less than thirty (30) days.",
+  "maintenance_article": "Widget Inc.",
+  "assessment_article": "Anytown LLC",
+  "registry": "Cumberland County",
+  "fiduciary_name": "Jordan B. Poe",
+  "fiduciary_capacity": "Fictional Inc.",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Reese B. Coe",
+  "notary_commission_expires": "August 1, 2029",
+  "condominium_name": "Casey J. Public",
+  "number_of_units": "four (4)",
+  "max_units": "four (4)",
+  "association_name": "Anytown P.A.",
+  "allocation_formula": "Sample Cooperative",
+  "unit_boundaries": "the interior unfinished surfaces of the Unit's perimeter walls, floors and ceilings, all as shown on the Plats and Plans; all lath, furring, wallboard, plasterboard, plaster, paneling, tiles, wallpaper, paint, finished flooring and any other materials constituting any part of the finished surfaces thereof are part of the Unit, and all other portions of the walls, floors or ceilings are part of the Chris K. Roe"
+}

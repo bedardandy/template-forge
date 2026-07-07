@@ -1,0 +1,18 @@
+{
+  "affidavit_purpose": "non_identity",
+  "affiant_name": "Drew L. Roe",
+  "affiant_municipality": "Saco",
+  "county": "York",
+  "subject_person_name": "Morgan E. Moe",
+  "adverse_instrument_type": "judgment lien",
+  "adverse_party_role": "judgment debtor",
+  "adverse_lien_registry": "York County",
+  "adverse_lien_book": "16842",
+  "adverse_lien_page": "77",
+  "affiant_knowledge_basis": "my own knowledge of my identity, residences, and financial affairs, and my review of the recorded instrument",
+  "reliance_party": "Anytown Trust",
+  "jurat_date": "June 16, 2026",
+  "ack_county": "York",
+  "notary_name": "Quinn C. Public",
+  "notary_commission_expires": "March 14, 2031"
+}

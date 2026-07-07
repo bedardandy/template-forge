@@ -1,0 +1,40 @@
+{
+  "_meta": {
+    "cost_formula": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-10",
+      "basis": "three similarly sized residential lots with comparable use of the way; equal shares is the parties' agreement"
+    }
+  },
+  "cost_formula": "equal_shares",
+  "parties_recital": "Robin E. Noe, of 1 Robin T. Doe, York, County of York, State of Maine, owner of Lot 1; Drew W. Moe, of 2 Robin T. Doe, York, County of York, State of Maine, owner of Lot 2; and Morgan Q. Noe, of 3 Robin T. Doe, York, County of York, State of Maine, owner of Lot 3",
+  "way_name": "Jordan A. Public",
+  "benefited_lots": "Lots 1, 2 and 3 as shown on a plan entitled \"Blake W. Doe, Jane J. Public, York, Maine\" recorded in the York County Registry of Deeds in Book 222, Page 33",
+  "easement_purpose": "vehicular and pedestrian ingress and egress and the installation, maintenance, repair and replacement of underground utilities serving the benefited lots",
+  "municipality": "York",
+  "county": "York",
+  "legal_description": "A private way fifty (50) feet in width, known as Avery B. Roe, running northerly from the northerly sideline of Alex V. Noe to the terminus shown on said plan recorded in the York County Registry of Deeds in Book 222, Page 33.",
+  "maintenance_standard": "passable for ordinary residential vehicular travel in all seasons",
+  "maintenance_decisions": "Decisions concerning the maintenance of the Way shall be made by vote of a majority of the Owners, one vote for each benefited lot.",
+  "registry": "York County",
+  "signers": [
+    {
+      "name": "Drew P. Doe",
+      "role": "Owner"
+    },
+    {
+      "name": "Drew B. Noe",
+      "role": "Owner"
+    },
+    {
+      "name": "Coe R. Noe",
+      "role": "Owner"
+    }
+  ],
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Quinn H. Moe",
+  "notary_commission_expires": "March 14, 2031"
+}

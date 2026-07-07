@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "allegations": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-26",
+      "basis": "reply to a counterclaim alleging that the Plaintiff breached the parties' agreement first and failed to mitigate; whether a reply is required and the response period under M.R. Civ. P. 7(a) and 12(a) must be verified for the matter [EXPERIMENTAL]"
+    }
+  },
+  "caption_county": "Kennebec",
+  "docket_no": "CV-2026-00188",
+  "plaintiff_recital": "Anytown Cooperative",
+  "defendant_recital": "Sample Cooperative",
+  "plaintiff_name": "Anytown Company",
+  "allegations": "Jane L. Noe admits the allegations of Paragraph 1 of the Jane R. Coe admits that the parties entered into the written agreement described in Paragraph 2 of the Counterclaim, but denies the Defendant's characterization of its terms, and refers the Court to the agreement itself as the best evidence of its contents.\n\nJane L. Noe is without knowledge or information sufficient to form a belief as to the truth of the allegations of Paragraph 3 of the Counterclaim, and on that basis denies them.\n\nJane L. Noe denies the allegations of Paragraphs 4 through 7 of the Counterclaim, and specifically denies that the Plaintiff breached the parties' agreement, denies that any breach by the Plaintiff was the first material breach, and denies that the Plaintiff failed to mitigate any damages; the Plaintiff states that the Defendant committed the first material breach by failing to pay the amounts due under the agreement.\n\nFurther answering, and as an affirmative defense, the Plaintiff states that the Counterclaim fails to state a claim upon which relief can be granted, and that the damages claimed by the Defendant, if any, were caused by the Defendant's own conduct and the Defendant's failure to mitigate.",
+  "document_title": "Plaintiff's Reply to Defendant's Counterclaim",
+  "served": true,
+  "service_date": "June 26, 2026",
+  "service_method": "the court's electronic filing system",
+  "service_recipient": "Example Cooperative",
+  "attorney_name": "Drew P. Noe",
+  "bar_number": "0012345",
+  "firm_name": "Acme Trust",
+  "firm_address": "372 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 26, 2026"
+}

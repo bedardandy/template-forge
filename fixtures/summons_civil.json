@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "answer_days": {
+      "source": "manifest_default",
+      "basis": "M.R. Civ. P. 12(a) 20-day answer period — EXPERIMENTAL, attorney to verify for the State / special defendants"
+    }
+  },
+  "caption_county": "Cumberland",
+  "court_division": "District Court",
+  "docket_no": "CV-2026-00321",
+  "plaintiff_recital": "Riley J. Poe",
+  "defendant_recital": "Widget Inc.",
+  "defendant_name": "Fictional LLP",
+  "defendant_address": "589 Example Street, Anytown, Maine 03900",
+  "attorney_name": "Reese T. Coe",
+  "bar_number": "0012345",
+  "firm_name": "Anytown P.A.",
+  "firm_address": "477 Example Street, Anytown, Maine 03900",
+  "issue_date": "June 26, 2026"
+}

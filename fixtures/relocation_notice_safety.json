@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "safety_exception": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "client reports a danger of abuse if the other parent learns the new address — notice to the court under 19-A M.R.S. § 1653(14)"
+    }
+  },
+  "caption_county": "Androscoggin",
+  "court_division": "DISTRICT COURT",
+  "action_designation": "Jamie C. Moe",
+  "docket_no": "FM-2024-0777",
+  "plaintiff_recital": "Chris H. Noe",
+  "defendant_recital": "John W. Coe",
+  "safety_concern": true,
+  "safety_exception": "safety_court_notice",
+  "sender_name": "Dana W. Moe",
+  "child_names": "Drew K. Moe (born 2017) and Robin J. Moe (born 2020)",
+  "children_plural": true,
+  "new_address": "136 Example Street, Anytown, Maine 03900",
+  "relocation_date": "August 1, 2026",
+  "safety_basis": "there is a history of domestic abuse by the other parent against the relocating parent, and a protection from abuse order has previously issued in this matter",
+  "other_parent_name": "Jamie J. Coe",
+  "signer_name": "Jane M. Noe",
+  "document_label": "Notice of Intended Relocation (to the Court)"
+}

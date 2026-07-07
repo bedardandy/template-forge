@@ -1,0 +1,16 @@
+{
+  "election_scope": "notice_acknowledgment",
+  "signer_type": "Example P.A.",
+  "park_name": "Robin B. Loe",
+  "park_owner_name": "Fictional P.A.",
+  "park_location": "148 County Road",
+  "municipality": "Sanford",
+  "county": "York",
+  "group_name": "Example Loe, LLC",
+  "group_representative": "Casey Q. Doe",
+  "notice_date": "June 22, 2026",
+  "election_date": "August 26, 2026",
+  "ack_county": "York",
+  "notary_name": "Chris N. Coe",
+  "notary_commission_expires": "April 9, 2030"
+}

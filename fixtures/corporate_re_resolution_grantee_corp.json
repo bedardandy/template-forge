@@ -1,0 +1,20 @@
+{
+  "entity_name": "Fictional P.A.",
+  "entity_type": "business_corporation",
+  "entity_state": "Maine",
+  "transaction_role": "grantee",
+  "action_form": "written_consent",
+  "governing_body_action_date": "June 4, 2026",
+  "property_identification": "the commercial lot known as 220 Alex P. Roe",
+  "municipality": "Portland",
+  "county": "Cumberland",
+  "counterparty_name": "Sample Inc.",
+  "consideration": "$1,250,000.00",
+  "grantee_financing": true,
+  "grantee_mortgage_required": true,
+  "authorized_officer_name": "Morgan Q. Moe",
+  "authorized_officer_title": "President",
+  "certifying_party_name": "Jane A. Roe",
+  "certifying_party_title": "Secretary",
+  "certification_date": "June 9, 2026"
+}

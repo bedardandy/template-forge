@@ -1,0 +1,406 @@
+{
+  "_schema": "template-forge/fact-registry",
+  "version": 2,
+  "_note": "Typed, role- and time-qualified matter facts. Each key declares its type, the template-forge slot(s) it feeds (slot names are engine-global, so any manifest that uses the slot is served), and the external form fact-keys it carries to (ME-RETTD keys match ~/transactional-tax-forms/forms/ME-RETTD/mapping.json 'map' values; IRS-1099-S keys are provisional until that form is mapped). Sources vocabulary: attorney_determination | client_intake | document_extraction | derived.",
+  "keys": {
+    "party.grantor.name": {
+      "type": "party",
+      "slot": "grantor_name",
+      "forms": {
+        "ME-RETTD": "transferor.name",
+        "IRS-1099-S": "filer.transferor_name"
+      }
+    },
+    "party.grantor.municipality": {
+      "type": "string",
+      "slot": "grantor_municipality"
+    },
+    "party.grantor.county": {
+      "type": "string",
+      "slot": "grantor_county"
+    },
+    "party.grantor.state": {
+      "type": "string",
+      "slot": "grantor_state"
+    },
+    "party.grantor.capacity": {
+      "type": "enum",
+      "enum": [
+        "individual",
+        "corporate",
+        "trustee",
+        "personal_representative"
+      ],
+      "slot": "grantor_capacity",
+      "_note": "routes family selection; trustee/PR values are rejected by the base deed manifests with a routing hint"
+    },
+    "party.grantor.plural": {
+      "type": "flag",
+      "slot": "grantor_plural"
+    },
+    "party.grantor.spouse.name": {
+      "type": "party",
+      "slot": "spouse_name",
+      "implies_flag": "spousal_release"
+    },
+    "party.grantee.name": {
+      "type": "party",
+      "slot": "grantee_name",
+      "forms": {
+        "ME-RETTD": "transferee.name",
+        "IRS-1099-S": "transferee.name"
+      }
+    },
+    "party.grantee.tenancy_joint": {
+      "type": "flag",
+      "slot": "joint_tenants"
+    },
+    "party.grantee.mailing_address.post_closing": {
+      "type": "address",
+      "as_of": "post_closing",
+      "slot": "grantee_address",
+      "forms": {
+        "ME-RETTD": {
+          "street": "transferee.mailing_address",
+          "city": "transferee.mailing_city",
+          "state": "transferee.mailing_state",
+          "zip": "transferee.mailing_zip"
+        },
+        "IRS-1099-S": {
+          "street": "transferee.address",
+          "city": "transferee.city",
+          "state": "transferee.state",
+          "zip": "transferee.zip"
+        }
+      },
+      "_note": "the address AFTER closing (often the property itself) — what belongs on the deed, the transfer tax declaration, and the 1099-S; NOT the grantee's current address"
+    },
+    "property.municipality": {
+      "type": "string",
+      "slot": "municipality",
+      "forms": {
+        "ME-RETTD": "property.town"
+      }
+    },
+    "property.county": {
+      "type": "string",
+      "slot": "county",
+      "forms": {
+        "ME-RETTD": "property.county"
+      }
+    },
+    "property.legal_description": {
+      "type": "longtext",
+      "slot": "legal_description"
+    },
+    "recording_ref.source_deed": {
+      "type": "recording_ref",
+      "slots": {
+        "registry": "registry",
+        "book": "source_book",
+        "page": "source_page",
+        "date": "source_deed_date",
+        "grantor": "source_grantor"
+      }
+    },
+    "recording_ref.prior_deed": {
+      "type": "recording_ref",
+      "slots": {
+        "registry": "registry",
+        "book": "prior_book",
+        "page": "prior_page",
+        "date": "prior_deed_date",
+        "grantor": "prior_grantor",
+        "grantee": "prior_grantee"
+      },
+      "_note": "corrective-deed target"
+    },
+    "recording_ref.mortgage": {
+      "type": "recording_ref",
+      "slots": {
+        "registry": "registry",
+        "book": "mortgage_book",
+        "page": "mortgage_page",
+        "date": "mortgage_date"
+      }
+    },
+    "recording_ref.lien": {
+      "type": "recording_ref",
+      "slots": {
+        "registry": "registry",
+        "book": "lien_book",
+        "page": "lien_page",
+        "date": "lien_date"
+      }
+    },
+    "consideration.amount": {
+      "type": "money",
+      "slot": "consideration",
+      "forms": {
+        "ME-RETTD": "property.purchase_price",
+        "IRS-1099-S": "gross_proceeds"
+      }
+    },
+    "closing.date": {
+      "type": "date",
+      "slot": "closing_date",
+      "forms": {
+        "ME-RETTD": "property.transfer_date",
+        "IRS-1099-S": "closing_date"
+      }
+    },
+    "consideration.none": {
+      "type": "flag",
+      "slot": "no_consideration"
+    },
+    "transfer_tax.gift": {
+      "type": "flag",
+      "slot": "gift_recital",
+      "implies_flag": "has_transfer_tax_recital"
+    },
+    "transfer_tax.exemption": {
+      "type": "string",
+      "slot": "rett_exemption",
+      "implies_flag": "has_transfer_tax_recital",
+      "_note": "ATTORNEY-supplied citation (e.g. a 36 M.R.S. § 4641-C paragraph); the engine never cites it itself"
+    },
+    "encumbrances.subject_to": {
+      "type": "longtext",
+      "slot": "permitted_encumbrances",
+      "implies_flag": "has_permitted_encumbrances"
+    },
+    "rights.appurtenant": {
+      "type": "longtext",
+      "slot": "appurtenant_rights",
+      "implies_flag": "has_appurtenant_rights"
+    },
+    "rights.reserved": {
+      "type": "longtext",
+      "slot": "reserved_rights",
+      "implies_flag": "has_reservations"
+    },
+    "title.source_omitted": {
+      "type": "flag",
+      "slot": "omit_source_of_title"
+    },
+    "instrument.covenant_type": {
+      "type": "enum",
+      "enum": [
+        "warranty",
+        "quitclaim_covenant",
+        "release"
+      ],
+      "slot": "covenant_type"
+    },
+    "style.house_style": {
+      "type": "flag",
+      "slot": "house_style"
+    },
+    "recording.return_to": {
+      "type": "string",
+      "slot": "record_return_to"
+    },
+    "signers": {
+      "type": "list",
+      "slot": "signers"
+    },
+    "execution.date": {
+      "type": "date",
+      "slot": "execution_date"
+    },
+    "acknowledgment.county": {
+      "type": "string",
+      "slot": "ack_county"
+    },
+    "acknowledgment.date": {
+      "type": "date",
+      "slot": "acknowledgment_date"
+    },
+    "acknowledgment.state": {
+      "type": "string",
+      "slot": "ack_state"
+    },
+    "notary.name": {
+      "type": "party",
+      "slot": "notary_name"
+    },
+    "notary.commission_expires": {
+      "type": "date",
+      "slot": "notary_commission_expires"
+    },
+    "estate.testator.name": {
+      "type": "party",
+      "slot": "testator_name",
+      "forms": {
+        "PR-100": "decedent.name"
+      },
+      "_note": "forms target provisional until maine-probate-forms mapping keys are wired"
+    },
+    "estate.testator.municipality": {
+      "type": "string",
+      "slot": "testator_municipality"
+    },
+    "estate.testator.county": {
+      "type": "string",
+      "slot": "testator_county"
+    },
+    "estate.testator.state": {
+      "type": "string",
+      "slot": "testator_state"
+    },
+    "estate.spouse.name": {
+      "type": "party",
+      "slot": "spouse_name"
+    },
+    "estate.pr.name": {
+      "type": "party",
+      "slot": "personal_representative_name",
+      "forms": {
+        "PR-100": "applicant.name"
+      },
+      "_note": "forms target provisional"
+    },
+    "estate.pr.successor.name": {
+      "type": "party",
+      "slot": "successor_pr_name"
+    },
+    "estate.guardian.name": {
+      "type": "party",
+      "slot": "guardian_name"
+    },
+    "estate.guardian.successor.name": {
+      "type": "party",
+      "slot": "successor_guardian_name"
+    },
+    "estate.will.distribution_scheme": {
+      "type": "enum",
+      "enum": [
+        "all_to_spouse_then_descendants",
+        "descendants_per_stirpes",
+        "specific_bequests_plus_residue"
+      ],
+      "slot": "distribution_scheme",
+      "_note": "routes the will dispositive core; backfill extraction must carry a residuary-clause surface as evidence"
+    },
+    "estate.will.self_proving": {
+      "type": "flag",
+      "slot": "self_proving",
+      "_note": "cue-gated: requires self-proved/self-proving affidavit language in surface (18-C §2-503)"
+    },
+    "estate.principal.name": {
+      "type": "party",
+      "slot": "principal_name"
+    },
+    "estate.principal.municipality": {
+      "type": "string",
+      "slot": "principal_municipality"
+    },
+    "estate.principal.county": {
+      "type": "string",
+      "slot": "principal_county"
+    },
+    "estate.principal.state": {
+      "type": "string",
+      "slot": "principal_state"
+    },
+    "estate.agent.name": {
+      "type": "party",
+      "slot": "agent_name"
+    },
+    "estate.agent.successor.name": {
+      "type": "party",
+      "slot": "successor_agent_name"
+    },
+    "estate.poa.effectiveness": {
+      "type": "enum",
+      "enum": [
+        "immediate",
+        "springing"
+      ],
+      "slot": "poa_effectiveness",
+      "_note": "routes the POA family; springing requires incapacity-trigger cue in surface (18-C §5-909(3))"
+    },
+    "estate.ahcd.end_of_life_choice": {
+      "type": "enum",
+      "enum": [
+        "not_prolong",
+        "prolong"
+      ],
+      "slot": "end_of_life_choice",
+      "_note": "AHCD Part 2 election; extraction must carry the checked/initialed choice surface"
+    },
+    "estate.settlor.name": {
+      "type": "party",
+      "slot": "settlor_name"
+    },
+    "estate.settlor.municipality": {
+      "type": "string",
+      "slot": "settlor_municipality"
+    },
+    "estate.settlor.county": {
+      "type": "string",
+      "slot": "settlor_county"
+    },
+    "estate.settlor.state": {
+      "type": "string",
+      "slot": "settlor_state"
+    },
+    "estate.trustee.name": {
+      "type": "party",
+      "slot": "trustee_name"
+    },
+    "estate.trustee.successor.name": {
+      "type": "party",
+      "slot": "successor_trustee_name"
+    },
+    "estate.trust.name": {
+      "type": "string",
+      "slot": "trust_name"
+    },
+    "estate.trust.date": {
+      "type": "date",
+      "slot": "trust_date"
+    },
+    "estate.trust.kind": {
+      "type": "enum",
+      "enum": [
+        "revocable",
+        "irrevocable"
+      ],
+      "slot": "trust_kind",
+      "_note": "routes the revocability article AND the trust title; 18-B M.R.S. § 602(1) — a trust is revocable unless its terms EXPRESSLY say irrevocable, so this value may never default"
+    },
+    "estate.trust.instrument": {
+      "type": "enum",
+      "enum": [
+        "declaration",
+        "agreement"
+      ],
+      "slot": "trust_instrument",
+      "_note": "declaration = settlor is trustee; agreement = separate trustee signs to accept; defaults to declaration"
+    },
+    "estate.trust.remainder_disposition": {
+      "type": "longtext",
+      "slot": "trust_remainder_disposition",
+      "_note": "ATTORNEY-supplied death/termination disposition; a per-stirpes catch-all fills any gap"
+    },
+    "estate.trust.spendthrift": {
+      "type": "flag",
+      "slot": "spendthrift",
+      "_note": "adds the 18-B § 502 spendthrift article"
+    },
+    "estate.trust.tin": {
+      "type": "string",
+      "slot": "trust_tin"
+    },
+    "estate.trust.amendment_kind": {
+      "type": "enum",
+      "enum": [
+        "amendment",
+        "restatement"
+      ],
+      "slot": "amendment_kind",
+      "_note": "routes the trust-amendment operative article; amendment changes specified provisions, restatement amends and restates in full"
+    }
+  }
+}

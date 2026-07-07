@@ -1,0 +1,56 @@
+{
+  "template_id": "example__acknowledged_instrument",
+  "practice_area": "example",
+  "document_type": "acknowledged_instrument",
+  "title": "Acknowledged Instrument of {{ party_a_name }}",
+  "description": "SYNTHETIC illustrative manifest demonstrating a jurisdiction profile (Maine) and a discriminator. Structure only.",
+  "context_defaults": {
+    "state": "Maine",
+    "governing_state": "Maine"
+  },
+  "required_slots": [
+    "party_a_name",
+    "party_b_name",
+    "county",
+    "execution_date"
+  ],
+  "paired_forms": [],
+  "blocks": [
+    {
+      "block_id": "caption_venue",
+      "mode": "required"
+    },
+    {
+      "block_id": "recital_parties",
+      "mode": "required"
+    },
+    {
+      "block_id": "granting_clause",
+      "mode": "required"
+    },
+    {
+      "block_id": "signature_block",
+      "mode": "required"
+    },
+    {
+      "block_id": "notary_block",
+      "mode": "required",
+      "variant_select": [
+        {
+          "variant": "notary_block_v_attorney",
+          "when": "officer_kind == 'attorney'"
+        }
+      ]
+    }
+  ],
+  "discriminators": {
+    "officer_kind": {
+      "enum": [
+        "notary_public",
+        "attorney"
+      ],
+      "required": false,
+      "hint": "Who completes the notarial certificate. Illustrative only."
+    }
+  }
+}

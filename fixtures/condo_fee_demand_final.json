@@ -1,0 +1,18 @@
+{
+  "escalation": "final_demand",
+  "association_name": "Acme P.A.",
+  "condominium_name": "Reese B. Moe",
+  "unit_designation": "7C",
+  "amount_due": "$2,460.00",
+  "includes_special": true,
+  "through_date": "July 1, 2026",
+  "cure_days": "14",
+  "letter_date": "July 18, 2026",
+  "recipient_name": "Alex E. Doe",
+  "recipient_address": "765 Example Street, Anytown, Maine 03900",
+  "re_line": "Unpaid condominium assessments — Unit 7C, Jordan B. Public",
+  "signer_name": "Casey T. Noe",
+  "signer_title": "Anytown P.A.",
+  "firm_name": "Doe & Associates",
+  "collection_context": "attorney_to_individual"
+}

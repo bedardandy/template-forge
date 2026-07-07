@@ -1,0 +1,46 @@
+{
+  "template_id": "example__services_agreement",
+  "practice_area": "example",
+  "document_type": "agreement",
+  "title": "Services Agreement between {{ party_a_name }} and {{ party_b_name }}",
+  "description": "SYNTHETIC illustrative manifest. Not any firm's drafting judgment — an example showing manifest structure only.",
+  "context_defaults": {
+    "governing_state": "Maine",
+    "instrument": "Services Agreement"
+  },
+  "required_slots": [
+    "party_a_name",
+    "party_b_name",
+    "execution_date"
+  ],
+  "paired_forms": [],
+  "blocks": [
+    {
+      "block_id": "recital_parties",
+      "mode": "required"
+    },
+    {
+      "block_id": "granting_clause",
+      "mode": "required"
+    },
+    {
+      "block_id": "notice_provision",
+      "mode": "required"
+    },
+    {
+      "block_id": "governing_law",
+      "mode": "required",
+      "variant_select": [
+        {
+          "variant": "governing_law_v_nh",
+          "when": "governing_state == 'New Hampshire'"
+        }
+      ]
+    },
+    {
+      "block_id": "signature_block",
+      "mode": "required"
+    }
+  ],
+  "discriminators": {}
+}

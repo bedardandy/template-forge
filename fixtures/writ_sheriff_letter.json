@@ -1,0 +1,16 @@
+{
+  "letter_date": "July 16, 2026",
+  "recipient_name": "Reese G. Public",
+  "recipient_address": "700 Example Street, Anytown, Maine 03900",
+  "re_line": "Widget Company",
+  "salutation": "Jamie D. Loe:",
+  "court_name": "Lee Q. Public",
+  "docket_no": "BANDC-CV-2026-00310",
+  "landlord_name": "Sample Inc.",
+  "tenant_name": "Moe D. Doe",
+  "premises_address": "645 Example Street, Anytown, Maine 03900",
+  "fee_enclosed": true,
+  "signer_name": "Sam A. Public, Esq.",
+  "signer_title": "Attorney for the Plaintiff",
+  "firm_name": "Acme Public"
+}

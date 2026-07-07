@@ -1,0 +1,34 @@
+{
+  "_meta": {
+    "pleading_type": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-20",
+      "basis": "defendant moving to dismiss under Rule 12(b)(6); District Court action; served with a proposed order"
+    }
+  },
+  "pleading_type": "motion",
+  "movant_role": "defendant",
+  "court_division": "District Court",
+  "caption_county": "York",
+  "docket_no": "CV-2026-00088",
+  "plaintiff_recital": "Quinn W. Public",
+  "defendant_recital": "Poe Cooperative",
+  "plaintiff_name": "Drew P. Moe",
+  "defendant_name": "Poe Trust",
+  "motion_caption": "Casey R. Public",
+  "motion_rule": "Alex G. Noe 12(b)(6)",
+  "motion_relief": "dismiss the Pat H. Noe for failure to state a claim upon which relief can be granted",
+  "allegations": "Blake B. Poe fails to state a claim upon which relief can be granted.\n\nThe written contract attached to the Complaint contains an integration clause that bars the extrinsic representations on which the Plaintiff's allegations depend.\n\nEven accepting the well-pleaded allegations as true, the Complaint does not allege facts establishing each element of a claim for breach of contract.",
+  "proposed_order": true,
+  "served": true,
+  "service_date": "June 20, 2026",
+  "document_title": "Defendant's Motion to Dismiss",
+  "service_method": "first-class mail, postage prepaid",
+  "service_recipient": "Example Holdings, LLC",
+  "attorney_name": "Reese N. Noe",
+  "bar_number": "0067890",
+  "firm_name": "Sample Cooperative",
+  "firm_address": "577 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 20, 2026"
+}

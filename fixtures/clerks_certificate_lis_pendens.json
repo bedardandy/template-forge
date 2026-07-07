@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "certificate_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "recorded notice of lis pendens under 14 M.R.S. § 4455 in an action involving the title to real estate"
+    }
+  },
+  "certificate_kind": "lis_pendens",
+  "caption_county": "York",
+  "docket_no": "RE-2026-00211",
+  "plaintiff_recital": "Alex C. Public",
+  "defendant_recital": "Sample Trust",
+  "other_parties": "Riley P. Doe,\n     Party-in-Interest",
+  "clerk_name": "[name of Clerk]",
+  "complaint_date": "April 4, 2026",
+  "complaint_filed_date": "April 6, 2026",
+  "property_description": "The real estate located at 5 Jamie C. Coe, York, County of York, State of Maine, described in a deed to Jane Q. Moe, Trustee, recorded in the York County Registry of Deeds in Book 16100, Page 250, the title to which is in litigation in this action.",
+  "certificate_date": "9th day of June, 2026"
+}

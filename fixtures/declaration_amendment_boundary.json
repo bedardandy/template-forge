@@ -1,0 +1,39 @@
+{
+  "declaration_kind": "condominium",
+  "signer_capacity": "association_officer",
+  "amending_party": "Anytown Coe",
+  "declaration_name": "Declaration of Dana H. Poe",
+  "declaration_date": "April 12, 2004",
+  "registry": "Cumberland County",
+  "decl_book": "21450",
+  "decl_page": "101",
+  "amendment_number": "Fifth",
+  "vote_percentage": "71%",
+  "vote_date": "May 5, 2026",
+  "amended_provisions": "The common boundary between Unit 2 and Unit 3 is relocated 4 feet easterly as shown on the amended Plats and Plans, and the resulting areas of the two Units are adjusted accordingly.",
+  "fiduciary_name": "Dana Q. Noe",
+  "fiduciary_capacity": "Fictional Inc.",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Dana M. Coe",
+  "notary_commission_expires": "August 1, 2029",
+  "amendment_shape": "boundary_relocation",
+  "affected_unit_owners": "the Owners of Unit 2 and Unit 3",
+  "consent_basis": "statutory_exception",
+  "touches_1602_117d": "yes",
+  "_meta": {
+    "consent_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "relocation of boundaries between adjoining units on the affected owners' application, 33 M.R.S. § 1602-112 — changes unit boundaries but is expressly permitted by the Act"
+    },
+    "touches_1602_117d": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "33 M.R.S. § 1602-117(d) review of the amended provisions"
+    }
+  }
+}

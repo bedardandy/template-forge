@@ -1,0 +1,13 @@
+{
+  "tenant_name": "Drew N. Roe",
+  "premises_address": "668 Example Street, Anytown, Maine 03900",
+  "notice_date": "June 20, 2026",
+  "termination_date": "May 31, 2026",
+  "deposit_amount": "$2,400.00",
+  "tenancy_at_will": true,
+  "deductions": "- Unpaid rent for May 2026: $1,200.00\n- Repair of damaged interior door: $250.00",
+  "amount_withheld": "$1,450.00",
+  "amount_refunded": "$950.00",
+  "signer_name": "Anytown LLC",
+  "signer_title": "Agent for Landlord"
+}

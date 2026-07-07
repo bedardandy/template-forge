@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "declaration_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "declaration of covenants, conditions and restrictions; instrument-governed, no condominium statute"
+    },
+    "action": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "initial declaration submitting the land to covenants (declare)"
+    }
+  },
+  "declaration_kind": "covenants_restrictions",
+  "action": "declare",
+  "declarant_capacity": "individual",
+  "declarant": "Mary R. Moe",
+  "declarant_address": "137 Example Street, Anytown, Maine 03900",
+  "declaration_name": "Declaration of Covenants, Conditions and Restrictions for Jordan N. Coe",
+  "municipality": "York",
+  "county": "York",
+  "legal_description": "Lots 1 through 8 as shown on a plan entitled \"Reese J. Loe, York, Maine\" recorded in the York County Registry of Deeds in Book 225, Page 60.",
+  "use_restrictions": "Each lot shall be used for single-family residential purposes only. No commercial or industrial activity shall be conducted on any lot.",
+  "maintenance_article": "Each lot owner shall maintain that owner's lot and the improvements thereon in good condition and repair.",
+  "assessment_article": "The owners shall share the cost of maintaining the common roadway and drainage facilities in equal shares, and any unpaid share shall be a lien on the owner's lot enforceable in accordance with this Declaration.",
+  "registry": "York County",
+  "grantor_name": "Jane G. Doe",
+  "signer_role": "Declarant",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Mary T. Poe",
+  "notary_commission_expires": "March 14, 2031"
+}

@@ -1,0 +1,52 @@
+{
+  "_meta": {
+    "declaration_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-30",
+      "basis": "creation of a condominium under 33 M.R.S. § 1602-101; declaration executed in the same manner as a deed and recorded"
+    },
+    "action": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-30",
+      "basis": "initial declaration creating the condominium (declare), not an amendment"
+    },
+    "declarant_capacity": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-30",
+      "basis": "Example LLC"
+    }
+  },
+  "declaration_kind": "condominium",
+  "action": "declare",
+  "declarant_capacity": "trustee",
+  "declarant": "Riley L. Noe",
+  "declarant_address": "917 Example Street, Anytown, Maine 03900",
+  "trustee_name": "Jordan K. Roe",
+  "trust_name": "Sample Company",
+  "trust_instrument": "declaration",
+  "trust_date": "March 3, 2018",
+  "declaration_name": "Declaration of Reese N. Loe",
+  "municipality": "Camden",
+  "county": "Knox",
+  "legal_description": "A certain lot or parcel of land located on the westerly side of Quinn J. Noe in Camden, County of Knox, State of Maine, being Lot 5 as shown on a plan recorded in the Knox County Registry of Deeds in Book 41, Page 18, together with the improvements thereon.",
+  "common_element_interest": "50.0",
+  "number_of_units": "two (2)",
+  "max_units": "two (2)",
+  "limited_common_elements": "the deck and the storage area designated on the condominium plan as appurtenant to each Unit",
+  "use_restrictions": "Jane T. Poe may be used for any purpose other than single-family residential occupancy. Jane T. Poe may be leased for a term of less than thirty (30) days.",
+  "maintenance_article": "Placeholder Poe",
+  "assessment_article": "Acme Inc.",
+  "registry": "Knox County",
+  "execution_date": "30th day of June, 2026",
+  "ack_county": "Knox",
+  "acknowledgment_date": "30th day of June, 2026",
+  "notary_name": "Morgan L. Public",
+  "notary_commission_expires": "August 1, 2029",
+  "condominium_name": "Jordan J. Poe",
+  "association_name": "Fictional Inc.",
+  "allocation_formula": "Placeholder LLC",
+  "unit_boundaries": "the interior unfinished surfaces of the Unit's perimeter walls, floors and ceilings, all as shown on the Plats and Plans; all lath, furring, wallboard, plasterboard, plaster, paneling, tiles, wallpaper, paint, finished flooring and any other materials constituting any part of the finished surfaces thereof are part of the Unit, and all other portions of the walls, floors or ceilings are part of the Blake E. Coe"
+}

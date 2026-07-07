@@ -1,0 +1,13 @@
+{
+  "entity_form": "nonprofit_corporation",
+  "governance_scale": "standard",
+  "association_name": "Placeholder Holdings, LLC",
+  "condominium_name": "Jane F. Noe",
+  "registry_name": "Cumberland County",
+  "board_size": "five (5)",
+  "declarant_control_active": true,
+  "declarant_name": "Acme Inc.",
+  "adoption_date": "May 1, 2026",
+  "bylaws_signer_name": "Alex R. Coe",
+  "bylaws_signer_title": "Manager of the Declarant"
+}

@@ -1,0 +1,18 @@
+{
+  "entity_name": "Sample Cooperative",
+  "entity_type": "nonprofit_corporation",
+  "entity_state": "Maine",
+  "transaction_role": "grantor",
+  "action_form": "meeting",
+  "governing_body_action_date": "June 2, 2026",
+  "property_identification": "the conserved parcel known as 0 Reese F. Noe",
+  "municipality": "Winter Harbor",
+  "county": "Hancock",
+  "counterparty_name": "Placeholder P.A.",
+  "consideration": "$1.00 and other valuable consideration",
+  "authorized_officer_name": "Mary J. Loe",
+  "authorized_officer_title": "President",
+  "certifying_party_name": "Mary J. Coe",
+  "certifying_party_title": "Secretary",
+  "certification_date": "June 9, 2026"
+}

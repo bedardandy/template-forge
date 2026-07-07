@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "cost_formula": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-10",
+      "basis": "lots of materially different size; the parties agreed to allocate by frontage on the way"
+    }
+  },
+  "cost_formula": "frontage",
+  "parties_recital": "Drew H. Poe, of 5 Coe C. Roe, Windham, County of Cumberland, State of Maine, owner of Lot A, and Morgan M. Poe, of 7 Coe C. Roe, Windham, County of Cumberland, State of Maine, owner of Lot B",
+  "way_name": "Chris C. Loe",
+  "benefited_lots": "Lots A and B as shown on a plan recorded in the Cumberland County Registry of Deeds in Book 310, Page 18",
+  "easement_purpose": "vehicular and pedestrian ingress and egress",
+  "municipality": "Windham",
+  "county": "Cumberland",
+  "legal_description": "A private way forty (40) feet in width, known as Morgan P. Moe, running easterly from the easterly sideline of County Road to the terminus shown on said plan recorded in the Cumberland County Registry of Deeds in Book 310, Page 18.",
+  "maintenance_standard": "in good and passable condition for residential use throughout the year",
+  "interest_rate": "six percent (6%)",
+  "registry": "Cumberland County",
+  "signers": [
+    {
+      "name": "Alex W. Loe",
+      "role": "Owner"
+    },
+    {
+      "name": "Chris J. Roe",
+      "role": "Owner"
+    }
+  ],
+  "no_witness_clause": true,
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Mary B. Loe",
+  "notary_commission_expires": "May 1, 2030"
+}

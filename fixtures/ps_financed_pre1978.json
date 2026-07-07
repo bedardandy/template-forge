@@ -1,0 +1,20 @@
+{
+  "agreement_date": "June 16, 2026",
+  "seller_name": "Quinn D. Public",
+  "buyer_name": "Jordan T. Public",
+  "property_address": "267 Example Street, Anytown, Maine 03900",
+  "property_book_page": "Book 4821, Page 117",
+  "registry_name": "Knox County Registry of Deeds",
+  "included_personal_property": "the kitchen range, refrigerator, and window treatments",
+  "purchase_price": "$415,000",
+  "earnest_money": "$10,000",
+  "escrow_agent": "Placeholder Trust",
+  "financing_contingency": true,
+  "loan_amount": "$330,000",
+  "financing_deadline": "July 31, 2026",
+  "inspection_contingency": true,
+  "inspection_deadline": "July 7, 2026",
+  "deed_type": "warranty",
+  "closing_date": "August 28, 2026",
+  "pre_1978_housing": "yes"
+}

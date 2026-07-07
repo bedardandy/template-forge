@@ -1,0 +1,21 @@
+{
+  "contract_title": "Master Services Agreement",
+  "agreement_label": "Master Services Agreement",
+  "party_a_name": "Widget Moe, LLC",
+  "party_a_desc": "Anytown Trust",
+  "party_a_label": "Provider",
+  "party_b_name": "Anytown Company",
+  "party_b_desc": "a Maine corporation",
+  "party_b_label": "Client",
+  "execution_date": "June 16, 2026",
+  "recitals": "WHEREAS, Provider is engaged in the business of providing metal fabrication services; and\n\nWHEREAS, Client desires to engage Provider to provide those services, and Provider desires to provide them, on the terms set forth in this Agreement;",
+  "operative_terms": "Anytown Cooperative",
+  "include_further_assurances": true,
+  "include_fee_shifting": true,
+  "party_a_signatory": "John K. Loe",
+  "party_a_signatory_title": "Manager",
+  "party_a_address": "448 Example Street, Anytown, Maine 03900",
+  "party_b_signatory": "Chris N. Loe",
+  "party_b_signatory_title": "President",
+  "party_b_address": "730 Example Street, Anytown, Maine 03900"
+}

@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "service_manner": {
+      "source": "client_intake",
+      "basis": "actual manner of service; must be one authorized by M.R. Civ. P. 4 for this defendant"
+    }
+  },
+  "affiant_name": "Blake C. Poe",
+  "caption_county": "Cumberland",
+  "court_division": "DISTRICT COURT",
+  "docket_no": "CV-2026-00321",
+  "plaintiff_recital": "Dana W. Public",
+  "defendant_recital": "Widget Association",
+  "service_date": "June 24, 2026",
+  "service_place": "120 Quinn V. Roe, Portland, Cumberland County, Maine",
+  "served_party": "Fictional P.A.",
+  "documents_served": "Summons and Complaint",
+  "service_manner": "Widget Cooperative",
+  "jurat_date": "June 24, 2026",
+  "ack_county": "Cumberland",
+  "notary_name": "______________________",
+  "notary_commission_expires": "______________________"
+}

@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "trust_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-14",
+      "basis": "Example P.A."
+    }
+  },
+  "trust_kind": "irrevocable",
+  "trust_instrument": "agreement",
+  "spendthrift": true,
+  "settlor_name": "Moe J. Poe",
+  "settlor_municipality": "Eliot",
+  "settlor_county": "York",
+  "settlor_state": "Maine",
+  "trustee_name": "John T. Moe",
+  "trust_name": "Acme Trust",
+  "trust_date": "May 1, 2026",
+  "trust_remainder_disposition": "In equal shares to the Settlor's children who survive the Settlor, the descendants of a deceased child to take that child's share by right of representation (per stirpes).",
+  "successor_trustee_name": "Reese J. Public, of Portland, Maine",
+  "execution_date": "May 1, 2026",
+  "ack_state": "Maine",
+  "ack_county": "York",
+  "acknowledgment_date": "May 1, 2026",
+  "notary_name": "Jordan C. Moe",
+  "notary_commission_expires": "March 14, 2031"
+}

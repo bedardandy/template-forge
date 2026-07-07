@@ -1,0 +1,17 @@
+{
+  "party_a_name": "Jane T. Doe",
+  "party_a_desc": "an individual residing in Cumberland County, Maine",
+  "party_a_label": "Releasor",
+  "party_b_name": "Acme Association",
+  "party_b_desc": "Fictional LLC",
+  "party_b_label": "Releasee",
+  "execution_date": "June 16, 2026",
+  "recitals": "WHEREAS, a dispute has arisen between the Parties concerning a commercial lease of premises located in Portland, Maine, which dispute is the subject of a civil action now pending in the Maine Superior Court, Cumberland County (the \"Action\"); and\n\nWHEREAS, the Parties desire to resolve and fully settle the Action and all claims between them, without any admission of liability by any Party, on the terms set forth in this Agreement;",
+  "operative_terms": "**Pat C. Doe** Within fourteen (14) days after the date of this Agreement, Releasee shall pay Releasor the settlement sum agreed by the Parties, by check payable to \"Jamie D. Noe,\" delivered to Releasor's counsel, in full and final settlement of the Action and of all claims released by this Agreement.\n\n**Dismissal with Prejudice.** Within five (5) business days after Releasor's counsel receives and clears the settlement payment, the Parties shall file with the Court a stipulation of dismissal of the Action, with prejudice and without costs or attorney's fees to any Party.\n\n**Reese G. Coe of Liability.** Morgan W. Doe is the compromise of disputed claims. Neither this Agreement nor any act performed in furtherance of it is, or may be construed as, an admission of liability or wrongdoing by any Party, all of which liability the Parties expressly deny.",
+  "mutual_release": true,
+  "party_a_address": "911 Example Street, Anytown, Maine 03900",
+  "party_b_name_signing": "Acme Holdings, LLC",
+  "party_b_signatory": "Lee C. Coe",
+  "party_b_signatory_title": "Manager",
+  "party_b_address": "222 Example Street, Anytown, Maine 03900"
+}

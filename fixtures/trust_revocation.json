@@ -1,0 +1,11 @@
+{
+  "settlor_name": "Morgan P. Doe",
+  "trust_name": "Example Trust",
+  "trust_date": "June 9, 2020",
+  "revocation_date": "June 12, 2026",
+  "execution_date": "June 12, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "June 12, 2026",
+  "notary_name": "Alex F. Poe",
+  "notary_commission_expires": "March 14, 2031"
+}

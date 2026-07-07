@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "declaration_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "amendment to a condominium declaration under 33 M.R.S. § 1602-117"
+    },
+    "touches_1602_117d": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "the amendment changes the uses to which Units are restricted (permits short-term rental of Units) — a 33 M.R.S. § 1602-117(d) act that is void without unanimous consent"
+    },
+    "consent_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "Standard Trust"
+    }
+  },
+  "declaration_kind": "condominium",
+  "signer_capacity": "association_officer",
+  "consent_basis": "unanimous_consent",
+  "touches_1602_117d": "yes",
+  "amending_party": "Sample Company",
+  "declaration_name": "Declaration of Dana M. Roe",
+  "declaration_date": "April 12, 2004",
+  "registry": "Cumberland County",
+  "decl_book": "21450",
+  "decl_page": "101",
+  "amendment_number": "Seventh",
+  "vote_date": "June 20, 2026",
+  "amended_provisions": "Placeholder P.A.",
+  "fiduciary_name": "Avery A. Public",
+  "fiduciary_capacity": "Widget Inc.",
+  "execution_date": "30th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "30th day of June, 2026",
+  "notary_name": "Morgan K. Roe",
+  "notary_commission_expires": "August 1, 2029"
+}

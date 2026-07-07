@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "parentage_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-22",
+      "basis": "parentage of the Defendant is contested and to be adjudicated under the Maine Parentage Act"
+    }
+  },
+  "caption_county": "Androscoggin",
+  "docket_no": "FM-2026-00150",
+  "plaintiff_recital": "Quinn W. Loe",
+  "defendant_recital": "Public K. Poe",
+  "plaintiff_name": "Quinn A. Public",
+  "document_title": "Complaint to Establish Parentage and Determine Parental Rights and Responsibilities",
+  "child_recital": "Public P. Loe, born November 2, 2023",
+  "request_genetic_testing": true,
+  "request_shared": true,
+  "request_name_change": true,
+  "child_new_name": "Pat P. Loe",
+  "served": true,
+  "service_date": "June 22, 2026",
+  "service_method": "first-class mail, postage prepaid",
+  "service_recipient": "Casey K. Doe, 14 Lee E. Noe, Lewiston, Maine 04240",
+  "attorney_name": "Lee V. Doe",
+  "bar_number": "0067890",
+  "firm_name": "Standard Company",
+  "firm_address": "364 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 22, 2026"
+}

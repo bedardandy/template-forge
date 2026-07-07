@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "fee_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "personal-injury matter taken on contingency; not a matter in which Me. R. Prof. Conduct 1.5(d) prohibits a contingent fee"
+    },
+    "expenses_before_fee": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "firm practice: contingent fee calculated on the gross recovery, expenses deducted after"
+    }
+  },
+  "letter_date": "July 3, 2026",
+  "recipient_name": "Jamie T. Public",
+  "recipient_address": "144 Example Street, Anytown, Maine 03900",
+  "re_line": "Engagement — Blake M. Moe",
+  "salutation": "Quinn H. Poe:",
+  "matter_description": "a personal-injury claim arising from a motor-vehicle collision on May 1, 2026",
+  "firm_name": "Standard Association",
+  "fee_basis": "contingent",
+  "contingent_settlement": "33 1/3%",
+  "contingent_trial": "40%",
+  "contingent_appeal": "40%",
+  "expenses_before_fee": false,
+  "client_name": "Lee P. Coe",
+  "closing": "Very truly yours,",
+  "signer_name": "Quinn J. Poe",
+  "signer_title": "Partner"
+}

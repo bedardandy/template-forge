@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "motion_rule": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-26",
+      "basis": "emergency motion for a temporary restraining order and preliminary injunction under M.R. Civ. P. 65 to restrain dissipation of disputed assets; the four-factor injunction standard and the Rule 65(b) notice/affidavit requirements must be verified for the matter [EXPERIMENTAL]"
+    }
+  },
+  "caption_county": "Cumberland",
+  "docket_no": "CV-2026-00412",
+  "plaintiff_recital": "Widget Company",
+  "defendant_recital": "Standard LLC",
+  "plaintiff_name": "Standard Company",
+  "defendant_name": "Widget LLC",
+  "movant_role": "plaintiff",
+  "motion_caption": "Lee R. Public A Avery V. Noe",
+  "motion_rule": "Riley P. Moe 65",
+  "motion_relief": "enjoin the Defendants from transferring, encumbering, or dissipating the disputed inventory and its proceeds pending hearing",
+  "allegations": "On or about June 24, 2026, the Plaintiff learned that the Defendants had begun to liquidate the disputed inventory that is the subject of this action, had sold a substantial portion of that inventory at below-market prices, and had wired the resulting proceeds to an account outside the Morgan Q. Coe immediate relief, the Defendants will continue to sell the disputed inventory and move its proceeds beyond the reach of this Reese P. Roe is likely to succeed on the merits. Jamie J. Moe holds a contractual and security interest in the disputed inventory, and the Defendants' sale of that inventory and transfer of its proceeds breach the parties' agreement and constitute a fraudulent transfer under the Reese M. Public will suffer irreparable injury for which there is no adequate remedy at law if the requested relief is not granted. Once the disputed inventory is sold and its proceeds are moved offshore, the Plaintiff will be unable to recover the specific property or to trace the proceeds, and any eventual money judgment will be uncollectible.\n\nThe balance of the hardships weighs in the Plaintiff's favor. The requested order would do no more than preserve the status quo by restraining the Defendants from disposing of disputed property pending a hearing, whereas the absence of relief would permanently deprive the Plaintiff of the property and proceeds at issue.\n\nThe public interest will not be adversely affected, and is served, by an order that preserves disputed assets, prevents the dissipation of property pending adjudication, and maintains the Court's ability to grant effective relief.\n\nIn further support of this Motion, the Plaintiff submits the accompanying affidavit and a proposed order, and, because the immediate and irreparable injury described above will occur before the Defendants can be heard, requests that the Court grant a temporary restraining order pursuant to Pat K. Noe 65(b) and set the Plaintiff's request for a preliminary injunction for hearing at the earliest opportunity.",
+  "proposed_order": true,
+  "document_title": "Plaintiff's Emergency Motion for a Temporary Restraining Order and Preliminary Injunction",
+  "served": true,
+  "service_date": "June 26, 2026",
+  "service_method": "the court's electronic filing system and electronic mail",
+  "service_recipient": "Anytown LLP",
+  "attorney_name": "Drew B. Doe",
+  "bar_number": "0012345",
+  "firm_name": "Fictional Company",
+  "firm_address": "737 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 26, 2026"
+}

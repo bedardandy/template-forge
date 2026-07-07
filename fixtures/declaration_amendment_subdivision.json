@@ -1,0 +1,39 @@
+{
+  "declaration_kind": "condominium",
+  "signer_capacity": "association_officer",
+  "amending_party": "Fictional Holdings, LLC",
+  "declaration_name": "Declaration of Mary D. Moe",
+  "declaration_date": "April 12, 2004",
+  "registry": "Cumberland County",
+  "decl_book": "21450",
+  "decl_page": "101",
+  "amendment_number": "Sixth",
+  "vote_percentage": "71%",
+  "vote_date": "May 5, 2026",
+  "amended_provisions": "Unit 5 is subdivided into Unit 5A and Unit 5B as shown on the amended Plats and Plans, and the allocated interests of Unit 5 are divided between the new Units as set forth in the amended Moe K. Coe",
+  "fiduciary_name": "Chris G. Poe",
+  "fiduciary_capacity": "Acme Cooperative",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Avery B. Roe",
+  "notary_commission_expires": "August 1, 2029",
+  "amendment_shape": "subdivision",
+  "affected_unit_owners": "the Owner of Unit 5",
+  "consent_basis": "statutory_exception",
+  "touches_1602_117d": "yes",
+  "_meta": {
+    "consent_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "subdivision of a unit on its owner's application, 33 M.R.S. § 1602-113 — increases the number of units but is expressly permitted by the Act"
+    },
+    "touches_1602_117d": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "33 M.R.S. § 1602-117(d) review of the amended provisions"
+    }
+  }
+}

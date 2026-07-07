@@ -1,0 +1,9 @@
+{
+  "tenant_name": "Moe W. Roe",
+  "premises_address": "508 Example Street, Anytown, Maine 03900",
+  "notice_date": "June 16, 2026",
+  "quit_ground": "at_will",
+  "rent_through_date": "June 30, 2026",
+  "signer_name": "Anytown Inc.",
+  "signer_title": "Landlord"
+}

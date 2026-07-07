@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "poa_effectiveness": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "principal wants the agent able to act immediately on execution; durable so it survives later incapacity"
+    }
+  },
+  "poa_effectiveness": "immediate",
+  "principal_name": "Jordan N. Public",
+  "principal_municipality": "York",
+  "principal_county": "York",
+  "principal_state": "Maine",
+  "agent_name": "Robin P. Moe",
+  "agent_address": "107 Example Street, Anytown, Maine 03900",
+  "successor_agent_name": "Lee E. Doe",
+  "successor_agent_address": "35 Example Street, Anytown, Maine 03900",
+  "grant_specific_authority": true,
+  "specific_authority_grants": "(a) make gifts of my property, subject to the limitations of 18-C M.R.S. § 5-947, to my spouse and descendants in amounts not exceeding the annual federal gift-tax exclusion per recipient per year; and\n(b) create or change a beneficiary designation on my retirement accounts.",
+  "include_compensation_clause": true,
+  "agent_compensation": "none",
+  "revoke_prior_poa": true,
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Lee B. Loe",
+  "notary_commission_expires": "March 14, 2031",
+  "principal_capacity": "competent"
+}

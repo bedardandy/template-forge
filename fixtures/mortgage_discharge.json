@@ -1,0 +1,19 @@
+{
+  "holder_name": "Fictional Trust",
+  "holder_address": "640 Public Street, Anytown, Maine 03900",
+  "mortgagor_name": "Jordan B. Loe and Dana B. Roe",
+  "original_mortgagee": "Sample Trust",
+  "mortgage_date": "March 2, 2015",
+  "satisfaction_date": "May 15, 2026",
+  "registry": "York County",
+  "mortgage_book": "1621",
+  "mortgage_page": "88",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "fiduciary_name": "Sam J. Noe",
+  "fiduciary_capacity": "Standard LLC",
+  "notary_name": "Sam D. Coe",
+  "notary_commission_expires": "August 1, 2029",
+  "holder_capacity": "corporate_officer"
+}

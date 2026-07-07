@@ -1,0 +1,21 @@
+{
+  "caption_county": "Penobscot",
+  "court_division": "District Court",
+  "action_designation": "Dana R. Public",
+  "docket_no": "BANDC-CV-2026-00310",
+  "plaintiff_recital": "Sample Cooperative",
+  "defendant_recital": "Alex M. Moe",
+  "landlord_name": "Fictional Company",
+  "tenant_name": "Jane P. Moe",
+  "premises_address": "649 Example Street, Anytown, Maine 03900",
+  "judgment_date": "July 8, 2026",
+  "money_judgment": "$2,400.00",
+  "attorney_name": "Jane V. Public",
+  "bar_number": "0012345",
+  "firm_name": "Fictional LLC",
+  "firm_address": "380 Example Street, Anytown, Maine 03900",
+  "attorney_phone": "(207) 555-0100",
+  "signing_date": "July 16, 2026",
+  "movant_role": "plaintiff",
+  "pleading_type": "motion"
+}

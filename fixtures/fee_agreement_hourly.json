@@ -1,0 +1,13 @@
+{
+  "fee_basis": "hourly",
+  "agreement_date": "June 20, 2026",
+  "client_name": "Fictional Association",
+  "firm_name": "Example LLC",
+  "matter_description": "a commercial contract dispute",
+  "hourly_rate": "$300",
+  "paralegal_rate": "$120",
+  "billing_cycle": "monthly",
+  "retainer_amount": "$5,000",
+  "signer_name": "Reese L. Poe",
+  "signer_title": "Partner"
+}

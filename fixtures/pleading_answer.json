@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "pleading_type": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-20",
+      "basis": "defendant answering the complaint, responding to the correspondingly numbered paragraphs; served by mail"
+    }
+  },
+  "pleading_type": "answer",
+  "caption_county": "York",
+  "docket_no": "CV-2026-00145",
+  "plaintiff_recital": "Riley E. Coe",
+  "defendant_recital": "Sample Inc.",
+  "plaintiff_name": "Quinn G. Loe",
+  "defendant_name": "Standard Holdings, LLC",
+  "allegations": "Jamie K. Public admits that the parties entered into a written contract on or about March 1, 2026, and denies the remaining allegations of this paragraph.\n\nJamie L. Noe lacks knowledge or information sufficient to form a belief as to the truth of the allegations of this paragraph and therefore denies them.",
+  "served": true,
+  "service_date": "June 20, 2026",
+  "document_title": "Answer",
+  "service_method": "first-class mail, postage prepaid",
+  "service_recipient": "Fictional LLP",
+  "attorney_name": "Reese R. Poe",
+  "bar_number": "0067890",
+  "firm_name": "Example Trust",
+  "firm_address": "518 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 20, 2026"
+}

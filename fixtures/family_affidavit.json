@@ -1,0 +1,20 @@
+{
+  "affiant_name": "Alex F. Poe",
+  "caption_county": "York",
+  "court_division": "DISTRICT COURT",
+  "action_designation": "Morgan T. Doe",
+  "docket_no": "FM-2026-0098",
+  "plaintiff_recital": "Jamie B. Coe",
+  "defendant_recital": "Alex E. Roe",
+  "child_support_affidavit": true,
+  "gross_monthly_income": "$4,200",
+  "statements": [
+    "The parties have two minor children, born in 2016 and 2019, who reside primarily with me.",
+    "I have been the primary caregiver for the children since the parties separated in March 2025.",
+    "The parenting schedule proposed in my motion is in the best interest of the children."
+  ],
+  "jurat_date": "______________________",
+  "ack_county": "York",
+  "notary_name": "Mary C. Loe",
+  "notary_commission_expires": "______________________"
+}

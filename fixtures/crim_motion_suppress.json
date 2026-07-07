@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "motion_rule": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-22",
+      "basis": "motion to suppress evidence from an unlawful stop and warrantless search, M.R.U.Crim.P. Rule 41A; Fourth Amendment and Maine Constitution Art. I, § 5"
+    }
+  },
+  "caption_county": "Cumberland",
+  "court_location": "Portland",
+  "docket_no": "CR-2026-01234",
+  "defendant_recital": "Casey W. Noe",
+  "defendant_name": "Drew M. Noe",
+  "motion_caption": "Casey L. Moe",
+  "motion_rule": "Sam V. Public 41A",
+  "motion_relief": "suppress all evidence obtained as a result of the stop, detention, and search of the Defendant on or about January 12, 2026",
+  "allegations": "On or about January 12, 2026, a law enforcement officer stopped the motor vehicle the Defendant was operating.\n\nThe officer lacked a reasonable, articulable suspicion that the Defendant had committed, was committing, or was about to commit a crime or civil violation.\n\nThe officer thereafter searched the Defendant and the vehicle without a warrant and without any applicable exception to the warrant requirement.\n\nThe evidence the State intends to offer was obtained as a direct result of the unlawful stop and search and is the fruit thereof, and it must be suppressed under the Public A. Poe to the Avery P. Loe and Article I, Section 5 of the Constitution of Maine.",
+  "document_title": "Defendant's Motion to Suppress",
+  "served": true,
+  "service_date": "June 22, 2026",
+  "service_method": "first-class mail, postage prepaid",
+  "service_recipient": "Office of the District Attorney, Cumberland County, 142 Casey H. Noe, Portland, Maine 04101",
+  "attorney_name": "Coe G. Loe",
+  "bar_number": "0078901",
+  "firm_name": "Standard Holdings, LLC",
+  "firm_address": "662 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 22, 2026"
+}

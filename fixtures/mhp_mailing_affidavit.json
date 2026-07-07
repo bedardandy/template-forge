@@ -1,0 +1,37 @@
+{
+  "recipient_schedule_format": "inline",
+  "park_name": "Drew D. Loe",
+  "affiant_name": "Mary H. Coe",
+  "affiant_capacity": "Anytown Cooperative",
+  "county": "York",
+  "mailing_date": "June 22, 2026",
+  "msha_receipt_date": "June 25, 2026",
+  "deadline_date": "August 24, 2026",
+  "recipients": [
+    {
+      "name": "Morgan D. Roe",
+      "lot": "4",
+      "address": "946 Example Street, Anytown, Maine 03900",
+      "tracking": "7020 1810 0001 2345 6701",
+      "receipt": "delivered June 24, 2026"
+    },
+    {
+      "name": "Casey K. Moe",
+      "lot": "12",
+      "address": "422 Example Street, Anytown, Maine 03900",
+      "tracking": "7020 1810 0001 2345 6702",
+      "receipt": "delivered June 24, 2026"
+    },
+    {
+      "name": "Jordan H. Public",
+      "lot": "19",
+      "address": "13 Example Street, Anytown, Maine 03900",
+      "tracking": "7020 1810 0001 2345 6703",
+      "receipt": "unclaimed; USPS record retained"
+    }
+  ],
+  "ack_county": "York",
+  "jurat_date": "June 26, 2026",
+  "notary_name": "Pat J. Noe",
+  "notary_commission_expires": "April 9, 2030"
+}

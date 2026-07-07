@@ -1,0 +1,25 @@
+{
+  "_meta": {
+    "trust_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-14",
+      "basis": "Standard Inc."
+    }
+  },
+  "trust_kind": "revocable",
+  "settlor_name": "Reese M. Noe",
+  "settlor_municipality": "Kittery",
+  "settlor_county": "York",
+  "settlor_state": "Maine",
+  "trustee_name": "Blake D. Public",
+  "trust_name": "Standard Association",
+  "trust_date": "June 9, 2026",
+  "trust_remainder_disposition": "To the Settlor's descendants who survive the Settlor, by right of representation (per stirpes).",
+  "successor_trustee_name": "Quinn V. Loe, of Portland, Maine",
+  "execution_date": "June 9, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "June 9, 2026",
+  "notary_name": "Blake W. Public",
+  "notary_commission_expires": "March 14, 2031"
+}

@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "safety_exception": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "relocation must occur in fewer than 30 days — notice as soon as possible, 19-A M.R.S. § 1653(14)"
+    }
+  },
+  "caption_county": "Kennebec",
+  "court_division": "DISTRICT COURT",
+  "action_designation": "Casey G. Moe",
+  "docket_no": "FM-2025-0442",
+  "plaintiff_recital": "Poe T. Public",
+  "defendant_recital": "Mary T. Doe",
+  "safety_exception": "short_notice_asap",
+  "sender_name": "Chris A. Coe",
+  "child_names": "Jordan A. Poe (born 2018)",
+  "children_plural": false,
+  "new_address": "618 Example Street, Anytown, Maine 03900",
+  "relocation_date": "July 20, 2026",
+  "short_notice_reason": "the landlord terminated the tenancy effective July 18, 2026, and replacement housing could only be secured on 12 days' notice",
+  "other_parent_name": "Poe M. Loe",
+  "signer_name": "Drew H. Coe",
+  "service_date": "July 8, 2026",
+  "served_party": "Chris E. Doe",
+  "serving_party": "Lee P. Coe",
+  "document_label": "Notice of Intent to Relocate"
+}

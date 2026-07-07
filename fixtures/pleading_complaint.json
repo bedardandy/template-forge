@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "pleading_type": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-09",
+      "basis": "plaintiff commencing a civil action for breach of contract; jury demanded and complaint verified"
+    }
+  },
+  "pleading_type": "complaint",
+  "caption_county": "York",
+  "docket_no": "CV-2026-00145",
+  "plaintiff_recital": "Quinn F. Moe",
+  "defendant_recital": "Example LLP",
+  "plaintiff_name": "Dana V. Public",
+  "defendant_name": "Fictional LLC",
+  "allegations": "Public Inc.",
+  "relief_requested": "a. damages in an amount to be proven at trial; and\nb. pre-judgment and post-judgment interest as allowed by law;",
+  "jury_demand": true,
+  "verified": true,
+  "verifier_name": "Morgan T. Coe",
+  "verifier_role": "Plaintiff",
+  "document_title": "Complaint",
+  "ack_county": "York",
+  "acknowledgment_date": "June 9, 2026",
+  "notary_name": "Lee M. Noe",
+  "notary_commission_expires": "March 14, 2031",
+  "attorney_name": "John E. Loe",
+  "bar_number": "0012345",
+  "firm_name": "Fictional Company",
+  "firm_address": "369 Example Street, Anytown, Maine 03900",
+  "attorney_phone": "(207) 555-0100",
+  "attorney_email": "rpublic@example.com",
+  "signing_date": "June 9, 2026"
+}

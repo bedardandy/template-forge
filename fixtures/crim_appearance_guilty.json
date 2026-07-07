@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "plea": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-22",
+      "basis": "written guilty plea entered on the client's informed, on-the-record decision for a minor offense"
+    }
+  },
+  "caption_county": "Androscoggin",
+  "court_location": "Lewiston",
+  "docket_no": "CR-2026-00890",
+  "defendant_recital": "Coe F. Public",
+  "defendant_name": "Jamie N. Doe",
+  "document_title": "Entry of Appearance and Plea",
+  "plea": "guilty",
+  "attorney_name": "Reese H. Coe",
+  "bar_number": "0012345",
+  "firm_name": "Standard LLC",
+  "firm_address": "126 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 22, 2026"
+}

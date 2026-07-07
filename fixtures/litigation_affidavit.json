@@ -1,0 +1,18 @@
+{
+  "affiant_name": "Alex G. Public",
+  "caption_county": "Cumberland",
+  "court_division": "SUPERIOR COURT",
+  "docket_no": "CV-2026-0142",
+  "plaintiff_recital": "Lee E. Noe",
+  "defendant_recital": "Example Trust",
+  "action_designation": "Mary F. Coe",
+  "statements": [
+    "I am the Plaintiff in this action and entered into the written contract attached as Exhibit A with the Defendant on or about January 5, 2025.",
+    "The Defendant did not complete the work described in the contract, and the photographs attached as Exhibit B fairly and accurately depict the condition of the property on February 10, 2026.",
+    "I paid the Defendant the sum of $24,500 under the contract, and the Defendant has not refunded any portion of that amount."
+  ],
+  "jurat_date": "______________________",
+  "ack_county": "Cumberland",
+  "notary_name": "Sam Q. Moe",
+  "notary_commission_expires": "______________________"
+}

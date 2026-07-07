@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "distribution_scheme": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "testator wants specific cash and item bequests followed by an attorney-drafted residuary disposition; execution left undated for in-office signing"
+    }
+  },
+  "testator_name": "Robin J. Roe",
+  "testator_municipality": "Kittery",
+  "testator_county": "York",
+  "testator_state": "Maine",
+  "distribution_scheme": "specific_bequests_plus_residue",
+  "specific_bequests": "I give and bequeath the sum of Pat G. Public ($5,000) to the Jordan Q. Coe\n\nI further give and bequeath my 1965 wristwatch to my friend, Noe D. Coe, if he survives me.",
+  "residuary_disposition": "To my niece, Pat V. Moe, if she survives me; otherwise to her descendants who survive me, by right of representation (per stirpes).",
+  "tpp_memorandum": true,
+  "personal_representative_name": "Drew W. Moe, of Pat G. Roe, Maine",
+  "require_bond": false,
+  "unsupervised_administration": true,
+  "month_year": "June, 2026",
+  "ack_county": "York",
+  "month_year_2": "June, 2026"
+}

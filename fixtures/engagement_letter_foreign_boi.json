@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "foreign_reporting_company": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "Anytown Inc."
+    }
+  },
+  "letter_date": "July 3, 2026",
+  "recipient_name": "Acme LLC",
+  "recipient_address": "854 Example Street, Anytown, Maine 03900",
+  "re_line": "Placeholder P.A.",
+  "salutation": "Jane M. Coe:",
+  "matter_description": "Anytown Company",
+  "scope_description": "preparing and filing the foreign-entity application for authority to do business in Maine and advising on initial compliance",
+  "firm_name": "Fictional LLC",
+  "fee_basis": "hourly",
+  "hourly_rate": "$300",
+  "retainer": "$2,000",
+  "entity_formation_matter": true,
+  "foreign_reporting_company": true,
+  "closing": "Sincerely,",
+  "signer_name": "John M. Doe",
+  "signer_title": "Partner"
+}

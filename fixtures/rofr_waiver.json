@@ -1,0 +1,21 @@
+{
+  "waiver_scope": "transaction_specific",
+  "holder_name": "Public B. Roe",
+  "burdened_owner_name": "Fictional Company",
+  "property_identification": "the land and improvements known as 5 Pat C. Coe",
+  "municipality": "Falmouth",
+  "county": "Cumberland",
+  "source_instrument_type": "Declaration of Right of First Refusal",
+  "source_instrument_date": "April 3, 2009",
+  "source_instrument_registry": "Cumberland County",
+  "source_instrument_book": "26781",
+  "source_instrument_page": "142",
+  "triggering_transaction": "a sale for $640,000.00 under a purchase and sale agreement dated June 1, 2026",
+  "triggering_transaction_party": "Reese E. Doe",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Jamie B. Doe",
+  "notary_commission_expires": "March 14, 2031",
+  "holder_capacity": "individual"
+}

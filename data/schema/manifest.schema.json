@@ -1,0 +1,123 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://template-forge.dev/schema/manifest.schema.json",
+  "title": "ManifestDef",
+  "description": "A template manifest: which blocks compose a document, in order, with the discriminators that guard family selection. STRUCTURE ONLY. This schema describes the SHAPE of a manifest, not any firm's specific manifests: a published manifest ships the structural wiring; the drafting judgment about which variants and conditions to apply lives in a private pack.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["template_id"],
+  "properties": {
+    "template_id": {
+      "type": "string",
+      "description": "Stable identifier for the template, conventionally '<practice_area>__<document_type>'.",
+      "minLength": 1
+    },
+    "practice_area": {
+      "type": "string",
+      "description": "Practice area the template belongs to (e.g. real_estate, estate_planning, litigation).",
+      "default": ""
+    },
+    "document_type": {
+      "type": "string",
+      "description": "The kind of document produced (e.g. warranty_deed, complaint, lease).",
+      "default": ""
+    },
+    "title": {
+      "type": "string",
+      "description": "Human-readable title of the template.",
+      "default": ""
+    },
+    "description": {
+      "type": "string",
+      "description": "Human-readable summary of what the template produces. Structural description only; no client content.",
+      "default": ""
+    },
+    "context_defaults": {
+      "type": "object",
+      "description": "Default context values applied to the assembly context (structural defaults / flags, not client values).",
+      "additionalProperties": true,
+      "default": {}
+    },
+    "required_slots": {
+      "type": "array",
+      "description": "Slot names that must be supplied for the document to be complete. Names only, no values.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "paired_forms": {
+      "type": "array",
+      "description": "External forms that must accompany the document (e.g. a transfer-tax declaration). Reference labels only.",
+      "items": { "type": "string" },
+      "default": []
+    },
+    "blocks": {
+      "type": "array",
+      "description": "Ordered references to the blocks that compose the document. Each entry is assembly wiring (block id + inclusion mode + conditions), NOT clause text.",
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "required": ["block_id"],
+        "properties": {
+          "block_id": {
+            "type": "string",
+            "description": "Identifier of the referenced block.",
+            "minLength": 1
+          },
+          "mode": {
+            "type": "string",
+            "description": "How the block participates in assembly.",
+            "enum": ["required", "add", "remove", "substitute"],
+            "default": "required"
+          },
+          "when": {
+            "type": ["string", "null"],
+            "description": "Optional condition (context expression) gating inclusion of the block.",
+            "default": null
+          },
+          "variant_select": {
+            "type": "array",
+            "description": "Ordered rules selecting a block variant by condition. Each rule pairs a 'when' condition with a target 'variant' id.",
+            "items": {
+              "type": "object",
+              "additionalProperties": true,
+              "properties": {
+                "when": { "type": "string", "description": "Context expression selecting this variant." },
+                "variant": { "type": "string", "description": "Variant id to select when 'when' holds." }
+              }
+            },
+            "default": []
+          }
+        }
+      },
+      "default": []
+    },
+    "discriminators": {
+      "type": "object",
+      "description": "Named discriminators that guard family selection and enum-check routing inputs. Each discriminator constrains an input value (typically an enum) so a wrong value is rejected rather than producing a false document.",
+      "additionalProperties": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "enum": {
+            "type": "array",
+            "description": "Allowed values for the discriminator.",
+            "items": { "type": "string" }
+          },
+          "required": {
+            "type": "boolean",
+            "description": "Whether the discriminator must be supplied."
+          },
+          "pin": {
+            "type": "string",
+            "description": "A value the discriminator is pinned to for this template (bakes a fixed choice)."
+          },
+          "hint": {
+            "type": "string",
+            "description": "Human explanation of the discriminator's effect and routing. Structural guidance only."
+          }
+        }
+      },
+      "default": {}
+    }
+  }
+}

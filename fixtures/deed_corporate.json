@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "covenant_type": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-28",
+      "basis": "corporate grantor conveying by quitclaim with covenant; title insurer accepts"
+    },
+    "grantor_capacity": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-28",
+      "basis": "grantor is a Maine business corporation; conveys by authorized officer under 13-C M.R.S. § 302"
+    }
+  },
+  "covenant_type": "quitclaim_covenant",
+  "grantor_capacity": "corporate",
+  "grantor_name": "Widget Loe, LLC",
+  "grantor_entity_type": "corporation",
+  "grantor_entity_state": "Maine",
+  "corporate_officer_name": "Reese B. Public",
+  "corporate_officer_title": "President",
+  "grantor_municipality": "Portland",
+  "grantor_county": "Cumberland",
+  "grantor_state": "Maine",
+  "grantee_name": "Avery V. Public",
+  "grantee_address": "726 Example Street, Anytown, Maine 03900",
+  "consideration": "$420,000.00",
+  "municipality": "Eliot",
+  "county": "York",
+  "legal_description": "A certain lot or parcel of land with the buildings thereon, situated on the westerly side of Avery P. Poe, being Lot 9 as shown on a plan recorded in the York County Registry of Deeds in Book 210, Page 7.",
+  "has_source_of_title": true,
+  "source_grantor": "Standard Cooperative",
+  "source_deed_date": "May 12, 2014",
+  "registry": "York County",
+  "source_book": "1702",
+  "source_page": "188",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Sam A. Loe",
+  "notary_commission_expires": "March 14, 2031"
+}

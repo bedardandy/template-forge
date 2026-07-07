@@ -1,0 +1,18 @@
+{
+  "holder_name": "Placeholder Company",
+  "holder_address": "630 Roe Street, Anytown, Maine 03900",
+  "mortgagor_name": "Widget Inc.",
+  "original_mortgagee": "Fictional LLC",
+  "mortgage_date": "July 11, 2019",
+  "registry": "York County",
+  "mortgage_book": "1755",
+  "mortgage_page": "204",
+  "released_description": "Lot 7 as shown on the Pat K. Noe of Quinn B. Roe recorded in the York County Registry of Deeds in Book 410, Page 3.",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "fiduciary_name": "Riley G. Doe",
+  "fiduciary_capacity": "Fictional Trust",
+  "notary_name": "Drew W. Doe",
+  "notary_commission_expires": "August 1, 2029"
+}

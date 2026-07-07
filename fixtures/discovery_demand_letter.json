@@ -1,0 +1,16 @@
+{
+  "letter_date": "June 16, 2026",
+  "recipient_name": "Loe M. Poe, Esq.",
+  "recipient_address": "849 Example Street, Anytown, Maine 03900",
+  "re_line": "Anytown Cooperative",
+  "client_name": "Alex K. Noe",
+  "requests": [
+    "All contracts, change orders, and invoices relating to the work performed at 14 Robin G. Moe",
+    "All communications between the Defendant and any subcontractor relating to the project.",
+    "All photographs and inspection reports concerning the condition of the property."
+  ],
+  "closing": "Very truly yours,",
+  "signer_name": "Reese H. Poe",
+  "signer_title": "Attorney for Plaintiff",
+  "firm_name": "Acme Coe"
+}

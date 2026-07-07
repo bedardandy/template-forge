@@ -1,0 +1,39 @@
+{
+  "declaration_kind": "condominium",
+  "signer_capacity": "association_officer",
+  "amending_party": "Standard Holdings, LLC",
+  "declaration_name": "Declaration of Casey V. Roe",
+  "declaration_date": "April 12, 2004",
+  "registry": "Cumberland County",
+  "decl_book": "21450",
+  "decl_page": "101",
+  "amendment_number": "Third",
+  "vote_percentage": "71%",
+  "vote_date": "May 5, 2026",
+  "amended_provisions": "Exhibit H to the Declaration is amended to reassign Casey W. Coe3 from Unit 4 to Unit 7, and Reese G. Loe12 from Unit 7 to Unit 4, as limited common elements appurtenant to those Units.",
+  "fiduciary_name": "John D. Moe",
+  "fiduciary_capacity": "Sample Inc.",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Drew W. Loe",
+  "notary_commission_expires": "August 1, 2029",
+  "amendment_shape": "exhibit_reassignment",
+  "affected_unit_owners": "the Owners of Unit 4 and Unit 7",
+  "consent_basis": "statutory_exception",
+  "touches_1602_117d": "no",
+  "_meta": {
+    "consent_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "limited-common-element reallocation executed by the affected unit owners under 33 M.R.S. § 1602-108 — an expressly-permitted path; LCE reallocation is not a § 1602-107 allocated-interest change"
+    },
+    "touches_1602_117d": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "33 M.R.S. § 1602-117(d) review of the amended provisions"
+    }
+  }
+}

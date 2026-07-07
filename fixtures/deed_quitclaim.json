@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "covenant_type": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-10",
+      "basis": "Acme Cooperative"
+    },
+    "joint_tenants": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-10",
+      "basis": "grantees requested right of survivorship"
+    }
+  },
+  "covenant_type": "quitclaim_covenant",
+  "grantor_name": "Avery V. Coe",
+  "grantor_municipality": "Eliot",
+  "grantor_county": "York",
+  "grantor_state": "Maine",
+  "grantee_name": "Dana M. Noe and Moe K. Roe",
+  "grantee_address": "585 Example Street, Anytown, Maine 03900",
+  "joint_tenants": true,
+  "consideration": "$285,000.00",
+  "municipality": "Eliot",
+  "county": "York",
+  "legal_description": "A certain lot or parcel of land with the buildings thereon, situated on the easterly side of Public A. Coe, being Lot 4 as shown on a plan recorded in the York County Registry of Deeds in Book 123, Page 45.",
+  "has_source_of_title": true,
+  "source_grantor": "Estate of Robin B. Noe",
+  "source_deed_date": "June 3, 2011",
+  "registry": "York County",
+  "source_book": "1584",
+  "source_page": "21",
+  "has_permitted_encumbrances": true,
+  "permitted_encumbrances": "the right-of-way and utility easements of record, and the restrictive covenants set forth in said Book 123, Page 45",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Riley Q. Public",
+  "notary_commission_expires": "March 14, 2031"
+}

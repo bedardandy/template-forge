@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "certificate_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "recorded clerk's certificate that a foreclosure by civil action under 14 M.R.S. § 6321 has been commenced"
+    }
+  },
+  "certificate_kind": "foreclosure",
+  "caption_county": "Cumberland",
+  "docket_no": "RE-2026-00088",
+  "plaintiff_recital": "Acme Inc.",
+  "defendant_recital": "Casey V. Moe",
+  "clerk_name": "[name of Clerk]",
+  "complaint_date": "February 10, 2026",
+  "complaint_filed_date": "February 12, 2026",
+  "property_description": "The real estate conveyed to Jamie T. Coe by deed dated June 29, 2018 and recorded in the Cumberland County Registry of Deeds in Book 32100, Page 145, together with the buildings thereon, located at 8 Chris A. Public, Portland, County of Cumberland, State of Maine.",
+  "certificate_date": "9th day of June, 2026"
+}

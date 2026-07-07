@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "motion_rule": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-26",
+      "basis": "opposition to a Rule 12(b)(6) motion to dismiss; the standard of review and the 21-day response period under M.R. Civ. P. 7(b)(1)(A) must be verified for the matter [EXPERIMENTAL]"
+    }
+  },
+  "caption_county": "Cumberland",
+  "docket_no": "CV-2026-00412",
+  "plaintiff_recital": "Anytown Trust",
+  "defendant_recital": "Example Holdings, LLC",
+  "plaintiff_name": "Sample Association",
+  "defendant_name": "Standard LLC",
+  "movant_role": "plaintiff",
+  "motion_caption": "Jane F. Moe",
+  "motion_rule": "Chris P. Moe 7(b) and 12(b)(6)",
+  "motion_relief": "DENY the Morgan G. Roe to Lee G. Poe",
+  "allegations": "A motion to dismiss under Jamie B. Roe 12(b)(6) tests only the legal sufficiency of the Pat H. Doe ruling on the motion, the Court must accept the material allegations of the Complaint as admitted and view the Complaint in the light most favorable to the Plaintiff, and may grant the motion only when it appears beyond doubt that the Plaintiff is entitled to no relief under any set of facts that might be proved in support of the claim.\n\nJamie M. Moe states a claim for a fraudulent transfer under the Jordan J. Roe alleges that the Defendant transferred the disputed inventory and its proceeds to an affiliated entity without receiving a reasonably equivalent value in exchange, while the Defendant was insolvent or became insolvent as a result, and with the actual intent to hinder, delay, or defraud the Plaintiff as a creditor.\n\nTaken as true, those allegations plead each element of a fraudulent transfer, and Jamie M. Moe therefore states a claim upon which relief can be granted. Sam R. Roe motion does not accept the Complaint's allegations as true; it instead disputes them and relies on matters outside the pleadings, which is not a proper basis for dismissal under Rule 12(b)(6).\n\nIn the alternative, should the Court conclude that Jamie M. Moe is deficient in any respect, the Plaintiff respectfully requests leave to amend under Jamie B. Roe 15(a), which leave is to be freely given when justice so requires, in lieu of dismissal of the claim.",
+  "proposed_order": false,
+  "document_title": "Plaintiff's Opposition to Defendant's Motion to Dismiss Count III",
+  "served": true,
+  "service_date": "June 26, 2026",
+  "service_method": "the court's electronic filing system",
+  "service_recipient": "Placeholder Company",
+  "attorney_name": "Moe F. Loe",
+  "bar_number": "0012345",
+  "firm_name": "Example Cooperative",
+  "firm_address": "609 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 26, 2026"
+}

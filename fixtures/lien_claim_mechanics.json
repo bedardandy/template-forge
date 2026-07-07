@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "lien_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-10",
+      "basis": "subcontractor claim under 10 M.R.S. ch. 603; statement filed within the 90-day window of § 3253(1)(A)"
+    }
+  },
+  "lien_kind": "mechanics",
+  "claimant_name": "Pat B. Coe d/b/a Chris V. Roe",
+  "claimant_address": "107 Example Street, Anytown, Maine 03900",
+  "labor_services_description": "labor and materials furnished in the construction of an addition to the dwelling at 12 Reese J. Roe, Eliot, Maine, under a subcontract with the general contractor, with the consent of the owners.",
+  "owner_name": "Lee H. Poe and Chris M. Doe",
+  "amount_due": "$23,450.00",
+  "credits_given": "$5,000.00 previously paid",
+  "last_work_date": "April 21, 2026",
+  "copy_mailed": true,
+  "municipality": "Eliot",
+  "county": "York",
+  "legal_description": "A certain lot or parcel of land with the buildings thereon, situated on the easterly side of Sam V. Loe, being Lot 4 as shown on a plan recorded in the York County Registry of Deeds in Book 123, Page 45.",
+  "grantor_name": "Reese L. Roe",
+  "signer_role": "Claimant",
+  "execution_date": "9th day of June, 2026",
+  "affiant_name": "Pat F. Poe",
+  "jurat_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "notary_name": "Morgan L. Doe",
+  "notary_commission_expires": "March 14, 2031"
+}

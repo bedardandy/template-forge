@@ -1,0 +1,16 @@
+{
+  "lease_term": "fixed_term",
+  "landlord_name": "Placeholder LLC",
+  "tenant_name": "Chris F. Poe",
+  "premises_address": "814 Example Street, Anytown, Maine 03900",
+  "start_date": "July 1, 2026",
+  "end_date": "June 30, 2027",
+  "rent_amount": "$1,200.00",
+  "rent_due_day": "first",
+  "rent_payable_to": "Placeholder LLC",
+  "security_deposit": "$2,400.00",
+  "occupants": "the Tenant and the Tenant's two minor children",
+  "pets_allowed": false,
+  "has_smoke_co": true,
+  "pre_1978": true
+}

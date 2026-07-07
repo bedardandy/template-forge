@@ -1,0 +1,17 @@
+{
+  "provider": "Sample Inc.",
+  "condominium_name": "Chris H. Loe",
+  "unit_designation": "12",
+  "unit_owner_name": "Alex R. Loe",
+  "association_name": "Sample Cooperative",
+  "monthly_assessment": "$280.00",
+  "unpaid_assessment_amount": "$560.00, representing two months of unpaid assessments",
+  "other_fees": "None",
+  "capital_reserves": "$31,000.00",
+  "financial_statement_reference": "are attached as Exhibit A",
+  "operating_budget_reference": "is attached as Exhibit B",
+  "judgments_and_suits": "None",
+  "association_signer_name": "Lee R. Doe",
+  "association_signer_title": "President",
+  "certificate_date": "June 20, 2026"
+}

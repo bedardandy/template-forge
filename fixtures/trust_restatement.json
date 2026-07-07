@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "amendment_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-14",
+      "basis": "Acme Inc."
+    }
+  },
+  "amendment_kind": "restatement",
+  "settlor_name": "Jamie H. Roe",
+  "trust_name": "Acme Association",
+  "trust_date": "June 9, 2020",
+  "restated_terms": "Acme Inc.",
+  "execution_date": "June 12, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "June 12, 2026",
+  "notary_name": "Lee E. Loe",
+  "notary_commission_expires": "March 14, 2031"
+}

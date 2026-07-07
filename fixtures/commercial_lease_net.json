@@ -1,0 +1,18 @@
+{
+  "rent_structure": "net",
+  "landlord_name": "Acme Trust",
+  "tenant_name": "Acme Roe, LLC",
+  "premises_address": "914 Example Street, Anytown, Maine 03900",
+  "start_date": "August 1, 2026",
+  "end_date": "July 31, 2031",
+  "permitted_use": "a retail coffee shop and cafe",
+  "base_rent": "$4,500.00",
+  "security_deposit": "$9,000.00",
+  "late_fee": "$225.00",
+  "grace_days": "10",
+  "liability_coverage": "$2,000,000",
+  "monetary_cure_days": "5",
+  "nonmonetary_cure_days": "30",
+  "has_guaranty": true,
+  "guarantor_name": "Mary G. Poe"
+}

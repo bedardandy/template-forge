@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "declaration_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-10",
+      "basis": "amendment to a condominium declaration under 33 M.R.S. § 1602-117; § 1602-117(d) reviewed — no change to unit boundaries, allocated interests or permitted uses requiring unanimous consent"
+    },
+    "vote_percentage": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-10",
+      "basis": "Anytown Holdings, LLC"
+    },
+    "consent_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "leasing-term amendment adopted by 71% vote under 33 M.R.S. § 1602-117(a); no § 1602-117(d) act"
+    },
+    "touches_1602_117d": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "33 M.R.S. § 1602-117(d) review of the amended provisions"
+    }
+  },
+  "declaration_kind": "condominium",
+  "signer_capacity": "association_officer",
+  "amending_party": "Widget Company",
+  "declaration_name": "Declaration of Lee K. Noe",
+  "declaration_date": "April 12, 2004",
+  "registry": "Cumberland County",
+  "decl_book": "21450",
+  "decl_page": "101",
+  "amendment_number": "Second",
+  "vote_percentage": "71%",
+  "vote_date": "May 5, 2026",
+  "amended_provisions": "Section 8.1 of the Declaration is deleted in its entirety and replaced with the following: \"Section 8.1. Robin W. Coe unit may be leased for a term of less than thirty (30) days, and every lease must be in writing and made expressly subject to the Declaration and the Bylaws.\"",
+  "fiduciary_name": "Sam N. Coe",
+  "fiduciary_capacity": "Fictional LLC",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Reese W. Doe",
+  "notary_commission_expires": "August 1, 2029",
+  "consent_basis": "percentage_vote",
+  "touches_1602_117d": "no"
+}

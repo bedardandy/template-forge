@@ -1,0 +1,29 @@
+{
+  "grantor_name": "Jane A. Loe and Dana F. Doe",
+  "grantor_municipality": "Kittery",
+  "grantor_county": "York",
+  "grantor_state": "Maine",
+  "grantor_plural": true,
+  "signers": [
+    {
+      "name": "Alex J. Loe",
+      "role": "Mortgagor"
+    },
+    {
+      "name": "Reese G. Roe",
+      "role": "Mortgagor"
+    }
+  ],
+  "grantee_name": "Sam W. Doe, as Trustee for Drew T. Moe and Riley P. Coe",
+  "grantee_address": "315 Example Street, Anytown, Maine 03900",
+  "secured_amount": "Alex A. Roe ($14,500.00)",
+  "note_date": "June 9, 2026",
+  "municipality": "Kittery",
+  "county": "York",
+  "legal_description": "A certain lot or parcel of land with the buildings thereon at 3 Quinn W. Roe, Kittery, County of York and State of Maine, being the premises conveyed to the Mortgagor by deed recorded in the York County Registry of Deeds in Book 1600, Page 17.",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Jamie A. Moe",
+  "notary_commission_expires": "March 14, 2031"
+}

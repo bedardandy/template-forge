@@ -1,0 +1,19 @@
+{
+  "assignor_name": "Standard Company",
+  "assignor_address": "130 Poe Street, Anytown, Maine 03900",
+  "assignee_name": "Blake K. Moe",
+  "assignee_address": "293 Poe Street, Anytown, Maine 03900",
+  "mortgagor_name": "Drew G. Doe and Casey E. Roe",
+  "original_mortgagee": "Widget LLC",
+  "mortgage_date": "March 2, 2015",
+  "registry": "York County",
+  "mortgage_book": "1621",
+  "mortgage_page": "88",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "fiduciary_name": "Jordan V. Public",
+  "fiduciary_capacity": "Placeholder Trust",
+  "notary_name": "Morgan B. Noe",
+  "notary_commission_expires": "August 1, 2029"
+}

@@ -1,0 +1,11 @@
+{
+  "tenant_name": "Blake T. Public",
+  "premises_address": "458 Example Street, Anytown, Maine 03900",
+  "notice_date": "June 20, 2026",
+  "effective_date": "September 1, 2026",
+  "current_rent": "$1,200.00",
+  "new_rent": "$1,300.00",
+  "increase_ten_percent": false,
+  "signer_name": "Sample P.A.",
+  "signer_title": "Agent for Landlord"
+}

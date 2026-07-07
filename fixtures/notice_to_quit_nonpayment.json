@@ -1,0 +1,10 @@
+{
+  "tenant_name": "John J. Doe",
+  "premises_address": "789 Example Street, Anytown, Maine 03900",
+  "notice_date": "June 16, 2026",
+  "quit_ground": "nonpayment",
+  "amount_due": "$2,400",
+  "rent_through_date": "May 31, 2026",
+  "signer_name": "Sample Cooperative",
+  "signer_title": "Agent for Landlord"
+}

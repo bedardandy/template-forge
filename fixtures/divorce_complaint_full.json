@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "grounds": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-22",
+      "basis": "no-fault divorce on irreconcilable marital differences, 19-A M.R.S. § 902(1)(I)"
+    },
+    "jurisdiction_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-22",
+      "basis": "Plaintiff has resided in Maine in good faith for more than six months, 19-A M.R.S. § 901(1)(A)"
+    }
+  },
+  "caption_county": "Cumberland",
+  "docket_no": "FM-2026-00123",
+  "plaintiff_recital": "Casey P. Loe",
+  "defendant_recital": "Quinn J. Public",
+  "plaintiff_name": "Morgan J. Public",
+  "defendant_name": "Pat M. Noe",
+  "document_title": "Complaint for Divorce",
+  "marriage_date": "September 14, 2013",
+  "marriage_place": "Portland, Maine",
+  "has_minor_children": true,
+  "children_recital": "Riley E. Noe, born March 3, 2016, and Jane T. Noe, born July 12, 2019",
+  "child_residence": "689 Example Street, Anytown, Maine 03900",
+  "has_marital_property": true,
+  "property_recital": "The marital estate includes the parties' residence, household goods and furnishings, two motor vehicles, and retirement accounts; the parties have also incurred marital debts.",
+  "request_spousal_support": true,
+  "restore_former_name": true,
+  "former_name": "Reese G. Noe",
+  "attorney_name": "Moe M. Poe",
+  "bar_number": "0067890",
+  "firm_name": "Sample Inc.",
+  "firm_address": "643 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 22, 2026"
+}

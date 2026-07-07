@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "discharge_transmittal": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "enclosure is a discharge of mortgage subject to the 33 M.R.S. § 551 recording (60-day) and mortgagor-mailing (30-day) duties; the transmittal recital asks the registry to return the recorded original so the mailing duty can be met"
+    }
+  },
+  "letter_date": "June 9, 2026",
+  "recipient_name": "York County Registry of Deeds",
+  "recipient_address": "274 Example Street, Anytown, Maine 03900",
+  "re_line": "Example Cooperative",
+  "enclosures": [
+    "Widget Inc.",
+    "Our firm's check no. 1088 in payment of the recording fee."
+  ],
+  "enclosure_purpose": "recording",
+  "discharge_transmittal": true,
+  "satisfaction_date": "May 15, 2026",
+  "return_instructions": "Widget Loe",
+  "closing": "Very truly yours,",
+  "signer_name": "Robin G. Public",
+  "signer_title": "Attorney at Law",
+  "firm_name": "Sample Inc."
+}

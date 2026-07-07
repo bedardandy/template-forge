@@ -1,0 +1,18 @@
+{
+  "letter_date": "June 27, 2026",
+  "recipient_name": "Clerk of Courts, Cumberland County Superior Court",
+  "recipient_address": "460 Example Street, Anytown, Maine 03900",
+  "re_line": "Doe v. Roe, Public N. Noe2026-00000 — Morgan H. Moe",
+  "intro": "This office represents the Plaintiff in the above-captioned matter.",
+  "filing_purpose": "filing with the Court",
+  "enclosures": [
+    "Casey T. Coe and Demand for Sam E. Noe;",
+    "Riley V. Doe for service on the Defendant;",
+    "Our firm's check no. 2087 in payment of the filing fee."
+  ],
+  "action_requested": "Kindly file the foregoing and return a conformed copy of the Complaint in the enclosed self-addressed, stamped envelope.",
+  "closing": "Very truly yours,",
+  "signer_name": "Public F. Loe",
+  "signer_title": "Attorney at Law",
+  "firm_name": "Anytown Noe"
+}

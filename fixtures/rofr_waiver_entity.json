@@ -1,0 +1,30 @@
+{
+  "waiver_scope": "permanent_release",
+  "holder_capacity": "entity",
+  "holder_name": "Pat F. Poe",
+  "holder_signer_name": "Blake A. Moe",
+  "holder_signer_title": "Executive Director",
+  "holder_entity_type": "nonprofit corporation",
+  "holder_entity_state": "Maine",
+  "burdened_owner_name": "Anytown Association",
+  "property_identification": "the land and improvements known as 5 Chris F. Coe",
+  "municipality": "Falmouth",
+  "county": "Cumberland",
+  "source_instrument_type": "Declaration of Right of First Refusal",
+  "source_instrument_date": "April 3, 2009",
+  "source_instrument_registry": "Cumberland County",
+  "source_instrument_book": "26781",
+  "source_instrument_page": "142",
+  "triggering_transaction": "the recording of this release to clear the ROFR of record",
+  "joining_holders": [
+    {
+      "name": "Robin N. Noe",
+      "capacity": "individual"
+    }
+  ],
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Dana Q. Public",
+  "notary_commission_expires": "March 14, 2031"
+}

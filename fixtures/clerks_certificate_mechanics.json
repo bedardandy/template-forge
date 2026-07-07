@@ -1,0 +1,20 @@
+{
+  "_meta": {
+    "certificate_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "recorded clerk's certificate under 10 M.R.S. § 3261 following the filing of a complaint to enforce a mechanic's lien; recorded within the § 3261(2) 60-day window"
+    }
+  },
+  "certificate_kind": "mechanics_lien",
+  "caption_county": "York",
+  "docket_no": "RE-2026-00123",
+  "plaintiff_recital": "Dana A. Moe d/b/a Jamie J. Noe",
+  "defendant_recital": "Blake C. Moe and Quinn W. Poe",
+  "clerk_name": "[name of Clerk]",
+  "complaint_date": "March 3, 2026",
+  "complaint_filed_date": "March 5, 2026",
+  "property_description": "A certain lot or parcel of land with the buildings thereon, located at 12 Alex D. Poe, Eliot, County of York, State of Maine, being Lot 4 as shown on a plan recorded in the York County Registry of Deeds in Book 123, Page 45, and being the same premises described in a deed to Reese M. Poe and Reese W. Noe recorded in the York County Registry of Deeds in Book 16500, Page 210.",
+  "certificate_date": "9th day of June, 2026"
+}

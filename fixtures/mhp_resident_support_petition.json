@@ -1,0 +1,30 @@
+{
+  "resident_buyer_type": "informal_group",
+  "support_method": "petition",
+  "park_name": "Alex G. Doe",
+  "park_location": "148 County Road",
+  "municipality": "Sanford",
+  "county": "York",
+  "group_name": "Fictional Holdings, LLC",
+  "group_representative": "Alex W. Noe",
+  "total_occupied_homes": "34",
+  "supporting_homes": "21",
+  "petition_date": "July 10, 2026",
+  "supporters": [
+    {
+      "name": "Jamie F. Noe",
+      "lot": "4",
+      "occupant": "owner"
+    },
+    {
+      "name": "John A. Loe",
+      "lot": "12",
+      "occupant": "owner"
+    },
+    {
+      "name": "Morgan C. Public",
+      "lot": "19",
+      "occupant": "family"
+    }
+  ]
+}

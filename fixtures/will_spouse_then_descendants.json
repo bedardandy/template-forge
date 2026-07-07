@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "distribution_scheme": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "married testator with surviving descendants; estate to spouse if living, otherwise to descendants per stirpes"
+    }
+  },
+  "testator_name": "Blake L. Noe",
+  "testator_municipality": "York",
+  "testator_county": "York",
+  "testator_state": "Maine",
+  "spouse_name": "Poe K. Public",
+  "children_recital": "I have two children, Jordan K. Moe and Reese R. Loe",
+  "distribution_scheme": "all_to_spouse_then_descendants",
+  "personal_representative_name": "Casey G. Public",
+  "successor_pr_name": "Quinn J. Noe, of Portland, Maine",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Jordan H. Noe",
+  "notary_commission_expires": "March 14, 2031"
+}

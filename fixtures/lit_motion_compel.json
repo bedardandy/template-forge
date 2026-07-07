@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "motion_rule": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-22",
+      "basis": "motion to compel discovery responses, M.R.Civ.P. Rule 37(a), after a good-faith conference"
+    }
+  },
+  "caption_county": "Kennebec",
+  "docket_no": "CV-2026-00099",
+  "plaintiff_recital": "Pat M. Doe",
+  "defendant_recital": "Anytown Trust",
+  "plaintiff_name": "Alex T. Doe",
+  "defendant_name": "Example Association",
+  "movant_role": "plaintiff",
+  "motion_caption": "Pat W. Poe",
+  "motion_rule": "Riley E. Roe 37(a)",
+  "motion_relief": "compel the Defendant to respond fully to the Jamie C. Moe for Production of Documents and Jamie L. Public of Interrogatories",
+  "allegations": "Dana A. Noe 2, 2026, the Plaintiff served the Defendant with the Jamie D. Roe for Production of Documents and Poe V. Public of Pat G. Doe responses were due on or before April 1, 2026.\n\nJamie M. Public has failed to serve complete responses, and the responses served are evasive and incomplete.\n\nCounsel for the Plaintiff has conferred with counsel for the Defendant in a good-faith effort to obtain the discovery without court action, and the parties have been unable to resolve the dispute.",
+  "proposed_order": true,
+  "document_title": "Plaintiff's Motion to Compel Discovery",
+  "served": true,
+  "service_date": "June 22, 2026",
+  "service_method": "the court's electronic filing system",
+  "service_recipient": "Standard Association",
+  "attorney_name": "Roe D. Roe",
+  "bar_number": "0012345",
+  "firm_name": "Example LLC",
+  "firm_address": "927 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 22, 2026"
+}

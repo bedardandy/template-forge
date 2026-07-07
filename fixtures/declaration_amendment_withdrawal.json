@@ -1,0 +1,38 @@
+{
+  "declaration_kind": "condominium",
+  "signer_capacity": "association_officer",
+  "amending_party": "Standard Cooperative",
+  "declaration_name": "Declaration of Reese C. Doe",
+  "declaration_date": "April 12, 2004",
+  "registry": "Cumberland County",
+  "decl_book": "21450",
+  "decl_page": "101",
+  "amendment_number": "Fourth",
+  "vote_percentage": "71%",
+  "vote_date": "May 5, 2026",
+  "amended_provisions": "The land and improvements described as Phase 2B (Units 100-108 and 110) are withdrawn from the Loe pursuant to the Declarant's reserved development rights, and the allocated interests of the remaining Units are reallocated as set forth in the amended Exhibit B attached.",
+  "fiduciary_name": "Reese H. Doe",
+  "fiduciary_capacity": "Widget Trust",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Casey M. Coe",
+  "notary_commission_expires": "August 1, 2029",
+  "amendment_shape": "withdrawal_of_property",
+  "consent_basis": "statutory_exception",
+  "touches_1602_117d": "yes",
+  "_meta": {
+    "consent_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "withdrawal of real estate under the declarant's reserved development right, 33 M.R.S. § 1602-110 — reallocates allocated interests but is expressly permitted by the Act"
+    },
+    "touches_1602_117d": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "33 M.R.S. § 1602-117(d) review of the amended provisions"
+    }
+  }
+}

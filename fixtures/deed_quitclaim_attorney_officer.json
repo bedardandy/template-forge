@@ -1,0 +1,39 @@
+{
+  "_meta": {
+    "covenant_type": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "Standard Inc."
+    },
+    "officer_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "closing attorney takes the acknowledgment as a notarial officer under 4 M.R.S. § 1910(1)(C); no commission expiration"
+    }
+  },
+  "covenant_type": "quitclaim_covenant",
+  "officer_kind": "attorney",
+  "grantor_name": "Quinn H. Moe",
+  "grantor_municipality": "Eliot",
+  "grantor_county": "York",
+  "grantor_state": "Maine",
+  "grantee_name": "Chris V. Doe and Public R. Loe",
+  "grantee_address": "373 Example Street, Anytown, Maine 03900",
+  "joint_tenants": true,
+  "consideration": "$285,000.00",
+  "municipality": "Eliot",
+  "county": "York",
+  "legal_description": "A certain lot or parcel of land with the buildings thereon, situated on the easterly side of Reese L. Doe, being Lot 4 as shown on a plan recorded in the York County Registry of Deeds in Book 123, Page 45.",
+  "has_source_of_title": true,
+  "source_grantor": "Estate of Robin R. Moe",
+  "source_deed_date": "June 3, 2011",
+  "registry": "York County",
+  "source_book": "1584",
+  "source_page": "21",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Reese L. Loe, Esq."
+}

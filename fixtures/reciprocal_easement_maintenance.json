@@ -1,0 +1,51 @@
+{
+  "_meta": {
+    "instrument": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "reciprocal easement combined with a maintenance standard and cost-sharing formula over a private way"
+    },
+    "cost_formula": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "three similarly sized residential lots with comparable use; equal shares is the parties' agreement"
+    }
+  },
+  "instrument": "easement_with_maintenance",
+  "cost_formula": "equal_shares",
+  "parties_recital": "Jane H. Noe, of 1 Jane C. Coe, York, County of York, State of Maine, owner of Lot 1; Blake N. Moe, of 2 Jane C. Coe, York, County of York, State of Maine, owner of Lot 2; and Drew G. Coe, of 3 Jane C. Coe, York, County of York, State of Maine, owner of Lot 3",
+  "way_name": "Avery A. Noe",
+  "benefited_lots": "Lots 1, 2 and 3 as shown on a plan entitled \"Avery E. Loe, Avery Q. Roe, York, Maine\" recorded in the York County Registry of Deeds in Book 222, Page 33",
+  "easement_purpose": "vehicular and pedestrian ingress and egress and the installation, maintenance, repair and replacement of underground utilities serving the benefited lots",
+  "municipality": "York",
+  "county": "York",
+  "legal_description": "A private way fifty (50) feet in width, known as Chris Q. Loe, running northerly from the northerly sideline of Avery L. Loe to the terminus shown on said plan recorded in the York County Registry of Deeds in Book 222, Page 33.",
+  "maintenance_standard": "passable for ordinary residential vehicular travel in all seasons",
+  "maintenance_decisions": "Decisions concerning the maintenance of the Way shall be made by vote of a majority of the Owners, one vote for each benefited lot.",
+  "interest_rate": "8%",
+  "has_dispute_resolution": true,
+  "mediation_venue": "York County, Maine",
+  "arbitration_rules": "Anytown Company",
+  "registry": "York County",
+  "signers": [
+    {
+      "name": "Jane H. Loe",
+      "role": "Owner"
+    },
+    {
+      "name": "Jamie T. Loe",
+      "role": "Owner"
+    },
+    {
+      "name": "Jane L. Moe",
+      "role": "Owner"
+    }
+  ],
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Riley T. Moe",
+  "notary_commission_expires": "March 14, 2031"
+}

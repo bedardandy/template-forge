@@ -1,0 +1,15 @@
+{
+  "party_a_name": "Jane V. Poe",
+  "party_b_name": "Quinn N. Moe",
+  "party_a_label": "Wife",
+  "party_b_label": "Husband",
+  "marriage_date": "September 12, 2009",
+  "separation_date": "March 1, 2026",
+  "execution_date": "June 16, 2026",
+  "has_children": true,
+  "child_support_payor": "Husband",
+  "child_support_amount": "$1,200 per month",
+  "primary_residence": "580 Example Street, Anytown, Maine 03900",
+  "real_property_disposition": "Wife shall have sole ownership of the marital residence and shall refinance the mortgage into her sole name within 180 days",
+  "spousal_support_terms": "Husband shall pay Wife transitional spousal support of $800 per month for 36 months."
+}

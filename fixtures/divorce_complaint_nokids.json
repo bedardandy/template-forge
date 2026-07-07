@@ -1,0 +1,39 @@
+{
+  "_meta": {
+    "grounds": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-22",
+      "basis": "fault ground pleaded in the alternative; specific § 902 ground supplied in fault_grounds"
+    },
+    "jurisdiction_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-22",
+      "basis": "Plaintiff is a Maine resident and the parties were married in Maine, 19-A M.R.S. § 901(1)(B)"
+    }
+  },
+  "caption_county": "York",
+  "docket_no": "FM-2026-00210",
+  "plaintiff_recital": "Riley L. Coe",
+  "defendant_recital": "Robin F. Coe",
+  "plaintiff_name": "Jamie E. Public",
+  "defendant_name": "Chris K. Doe",
+  "document_title": "Complaint for Divorce",
+  "marriage_date": "June 2, 2018",
+  "marriage_place": "Kittery, Maine",
+  "has_minor_children": false,
+  "has_marital_property": true,
+  "grounds": "fault",
+  "fault_grounds": "cruel and abusive treatment",
+  "jurisdiction_basis": "resident_married_here",
+  "served": true,
+  "service_date": "June 22, 2026",
+  "service_method": "first-class mail, postage prepaid",
+  "service_recipient": "Anytown Inc.",
+  "attorney_name": "Drew D. Coe",
+  "bar_number": "0078901",
+  "firm_name": "Standard LLC",
+  "firm_address": "804 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 22, 2026"
+}

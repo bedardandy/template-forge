@@ -1,0 +1,20 @@
+{
+  "agreement_date": "June 16, 2026",
+  "vendor_name": "John L. Poe",
+  "vendor_address": "708 Example Street, Anytown, Maine 03900",
+  "purchaser_name": "Alex H. Coe",
+  "purchaser_address": "656 Example Street, Anytown, Maine 03900",
+  "property_address": "814 Example Street, Anytown, Maine 03900",
+  "property_book_page": "Book 3190, Page 58",
+  "registry_name": "Waldo County Registry of Deeds",
+  "encumbrances": "a 2018 utility easement to Morgan N. Coe recorded at Book 2901, Page 14, and the lien of unpaid real estate taxes for the current year",
+  "sales_price": "$160,000",
+  "down_payment": "$16,000",
+  "principal_balance": "$144,000",
+  "installment_count": "180",
+  "installment_amount": "$1,025",
+  "installment_due": "on the first day of each month beginning August 1, 2026",
+  "interest_rate": "6.5% per year",
+  "interest_method": "on the declining unpaid balance",
+  "deed_type": "warranty"
+}

@@ -1,0 +1,34 @@
+{
+  "_meta": {
+    "declaration_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-10",
+      "basis": "declaration of covenants, not a condominium — 33 M.R.S. § 1602-117 does not apply; authority is the declaration's own amendment clause"
+    }
+  },
+  "declaration_kind": "covenants",
+  "signer_capacity": "individual",
+  "amending_party": "the undersigned owners of lots in Casey J. Loe",
+  "declaration_name": "Declaration of Covenants and Restrictions for Casey P. Noe",
+  "registry": "York County",
+  "decl_book": "1900",
+  "decl_page": "240",
+  "amendment_authority": "Article XI, Section 2 of the Declaration (amendment by the written consent of the owners of two-thirds of the lots)",
+  "amended_provisions": "Section 5 of the Declaration (Fences) is amended by adding the following sentence: \"No fence within the front setback may exceed four (4) feet in height.\"",
+  "signers": [
+    {
+      "name": "Morgan G. Moe",
+      "role": "Lot Owner"
+    },
+    {
+      "name": "Drew D. Roe",
+      "role": "Lot Owner"
+    }
+  ],
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Jordan Q. Poe",
+  "notary_commission_expires": "March 14, 2031"
+}

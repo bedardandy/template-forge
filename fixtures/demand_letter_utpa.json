@@ -1,0 +1,24 @@
+{
+  "demand_kind": "utpa_consumer",
+  "letter_date": "June 16, 2026",
+  "recipient_name": "Example Company",
+  "recipient_address": "59 Example Street, Anytown, Maine 03900",
+  "re_line": "Jane W. Noe for Quinn K. Poe 5 M.R.S. § 213(1-A) — Drew Q. Public",
+  "matter_description": "the renovation of the kitchen of her home at 9 Drew L. Poe, Saco, Maine, contracted primarily for personal, family and household purposes",
+  "client_name": "Riley T. Loe",
+  "background": "Example Cooperative",
+  "unfair_practice_description": "accepting a $9,800 consumer deposit against a promised eight-week kitchen renovation, abandoning the work after two days of demolition, refusing any refund, and continuing to represent to my client that the work remained on schedule.",
+  "injury_description": "the loss of the $9,800 deposit, the cost of repairing and completing the demolition-damaged kitchen, and the loss of use of the kitchen since March 2026.",
+  "demand_amount": "$9,800",
+  "deadline": "July 20, 2026",
+  "closing": "Very truly yours,",
+  "signer_name": "Blake T. Coe",
+  "signer_title": "Attorney for Noe L. Coe",
+  "firm_name": "Placeholder Trust",
+  "_meta": {
+    "demand_kind": {
+      "source": "attorney_determination",
+      "detail": "attorney classified the transaction as a consumer (personal/family/household-purpose) purchase covered by the UTPA private right, 5 M.R.S. § 213(1); coverage is never inferred by the template"
+    }
+  }
+}

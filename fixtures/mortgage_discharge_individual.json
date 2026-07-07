@@ -1,0 +1,18 @@
+{
+  "holder_capacity": "individual",
+  "holder_name": "Morgan T. Doe",
+  "holder_address": "638 Example Street, Anytown, Maine 03900",
+  "mortgagor_name": "Quinn Q. Moe and Casey Q. Coe",
+  "original_mortgagee": "Morgan L. Roe",
+  "mortgage_date": "May 1, 2019",
+  "registry": "York County",
+  "mortgage_book": "1700",
+  "mortgage_page": "55",
+  "grantor_name": "Lee F. Poe",
+  "signer_role": "Mortgagee and present holder",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Mary D. Public",
+  "notary_commission_expires": "March 14, 2031"
+}

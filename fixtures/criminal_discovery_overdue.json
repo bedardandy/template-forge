@@ -1,0 +1,28 @@
+{
+  "_meta": {
+    "automatic_overdue": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-30",
+      "basis": "arraignment on the Class D charge was May 4, 2026; the Rule 16(b)(2) 7-day deadline for the Rule 16(a)(2)(B)-(I) automatic discovery has passed with no production"
+    }
+  },
+  "letter_date": "June 30, 2026",
+  "recipient_name": "Office of the District Attorney",
+  "recipient_address": "140 Example Street, Anytown, Maine 03900",
+  "re_line": "State of Maine v. Mary C. Public, Blake H. Loe2026-0912 — overdue automatic discovery",
+  "defendant_name": "Jane C. Noe",
+  "automatic_overdue": true,
+  "overdue_items": [
+    "The video recording of the traffic stop referenced on page 2 of the incident report (Rule 16(a)(2)(F)).",
+    "The names, dates of birth, and addresses of the witnesses the State intends to call (Rule 16(a)(2)(H)).",
+    "Written or recorded statements of those witnesses and the summaries of their statements contained in the police reports (Rule 16(a)(2)(I))."
+  ],
+  "closing": "Very truly yours,",
+  "signer_name": "Reese V. Coe",
+  "signer_title": "Attorney for Defendant",
+  "service_date": "June 30, 2026",
+  "served_party": "the Office of the District Attorney, Kennebec County",
+  "serving_party": "Pat B. Moe, Esq.",
+  "document_label": "Discovery Demand and Request"
+}

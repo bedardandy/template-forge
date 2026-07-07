@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "amendment_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-14",
+      "basis": "Acme Association"
+    }
+  },
+  "amendment_kind": "amendment",
+  "amendment_ordinal": "Third",
+  "settlor_name": "Jane H. Doe",
+  "trust_name": "Fictional Company",
+  "trust_date": "June 9, 2020",
+  "amendment_changes": "Example Association",
+  "execution_date": "June 12, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "June 12, 2026",
+  "notary_name": "Robin Q. Coe",
+  "notary_commission_expires": "March 14, 2031"
+}

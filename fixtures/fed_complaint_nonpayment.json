@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "quit_ground": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-20",
+      "basis": "tenant 7+ days in arrears; 7-day notice served and expired"
+    }
+  },
+  "caption_county": "Penobscot",
+  "court_division": "District Court",
+  "action_designation": "Alex N. Moe",
+  "docket_no": "BANDC-CV-2026-00310",
+  "plaintiff_recital": "Widget Association",
+  "defendant_recital": "Dana T. Loe",
+  "landlord_name": "Fictional Association",
+  "tenant_name": "Drew M. Roe",
+  "premises_address": "321 Example Street, Anytown, Maine 03900",
+  "tenancy_type": "at_will",
+  "quit_ground": "nonpayment",
+  "rent_arrears": "$2,400.00",
+  "notice_date": "June 1, 2026",
+  "attorney_name": "Blake B. Doe",
+  "bar_number": "0012345",
+  "firm_name": "Anytown Inc.",
+  "firm_address": "154 Example Street, Anytown, Maine 03900",
+  "attorney_phone": "(207) 555-0100",
+  "signing_date": "June 20, 2026",
+  "movant_role": "plaintiff",
+  "pleading_type": "complaint",
+  "service_recipient": "Drew K. Roe",
+  "service_date": "June 20, 2026",
+  "service_method": "first class mail and the court's electronic filing system",
+  "document_title": "Complaint for Forcible Entry and Detainer"
+}

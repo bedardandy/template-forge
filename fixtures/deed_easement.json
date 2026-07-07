@@ -1,0 +1,22 @@
+{
+  "easement_action": "grant",
+  "grantor_name": "Placeholder Association",
+  "grantor_municipality": "Kittery",
+  "grantor_county": "York",
+  "grantor_state": "Maine",
+  "grantee_name": "Widget Trust",
+  "grantee_address": "348 Poe Street, Anytown, Maine 03900",
+  "easement_purpose": "vehicular and pedestrian ingress and egress and the installation and maintenance of underground utilities",
+  "easement_kind": "appurtenant",
+  "perpetual": true,
+  "municipality": "Kittery",
+  "county": "York",
+  "legal_description": "A 20-foot wide strip of land along the easterly boundary of the Grantor's land at 100 State Road, Kittery, as shown on a plan recorded in the York County Registry of Deeds in Book 401, Page 12.",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "grantor_plural": false,
+  "notary_name": "Jane F. Noe",
+  "notary_commission_expires": "May 1, 2030",
+  "easement_origin": "express"
+}

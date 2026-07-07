@@ -1,0 +1,140 @@
+{
+  "matter_id": "EXAMPLE-2026-0042",
+  "description": "Fictional residential sale closing — demonstrates the one-matter, many-artifacts carry: the SAME facts render the deed and project into ME-RETTD transferee/transferor keys.",
+  "facts": {
+    "party.grantor.name": {
+      "value": "Sam A. Noe",
+      "source": "client_intake",
+      "date": "2026-06-01"
+    },
+    "party.grantor.municipality": {
+      "value": "Eliot",
+      "source": "client_intake",
+      "date": "2026-06-01"
+    },
+    "party.grantor.county": {
+      "value": "York",
+      "source": "client_intake",
+      "date": "2026-06-01"
+    },
+    "party.grantor.state": {
+      "value": "Maine",
+      "source": "client_intake",
+      "date": "2026-06-01"
+    },
+    "party.grantor.capacity": {
+      "value": "individual",
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-09",
+      "basis": "Fictional LLC"
+    },
+    "party.grantee.name": {
+      "value": "Casey C. Doe and Reese T. Roe",
+      "source": "client_intake",
+      "date": "2026-06-01"
+    },
+    "party.grantee.tenancy_joint": {
+      "value": true,
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-09",
+      "basis": "married grantees requested right of survivorship"
+    },
+    "party.grantee.mailing_address.post_closing": {
+      "value": {
+        "street": "373 Example Street, Anytown, Maine 03900",
+        "city": "Eliot",
+        "state": "ME",
+        "zip": "03903"
+      },
+      "source": "client_intake",
+      "date": "2026-06-01",
+      "basis": "grantees will occupy the property after closing — post-closing address for deed, RETTD and 1099-S"
+    },
+    "instrument.covenant_type": {
+      "value": "quitclaim_covenant",
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-09",
+      "basis": "Sample Company"
+    },
+    "property.municipality": {
+      "value": "Eliot",
+      "source": "client_intake",
+      "date": "2026-06-01"
+    },
+    "property.county": {
+      "value": "York",
+      "source": "client_intake",
+      "date": "2026-06-01"
+    },
+    "property.legal_description": {
+      "value": "A certain lot or parcel of land with the buildings thereon, situated on the easterly side of Avery F. Loe, being Lot 4 as shown on a plan recorded in the York County Registry of Deeds in Book 123, Page 45.",
+      "source": "document_extraction",
+      "document": "prior deed, Book 1584 Page 21",
+      "date": "2026-06-08"
+    },
+    "recording_ref.source_deed": {
+      "value": {
+        "registry": "York County",
+        "book": "1584",
+        "page": "21",
+        "date": "June 3, 2011",
+        "grantor": "Estate of Casey K. Noe"
+      },
+      "source": "document_extraction",
+      "document": "prior deed, Book 1584 Page 21",
+      "date": "2026-06-08"
+    },
+    "consideration.amount": {
+      "value": "$285,000.00",
+      "source": "client_intake",
+      "date": "2026-06-05",
+      "basis": "purchase and sale agreement price"
+    },
+    "encumbrances.subject_to": {
+      "value": "the right-of-way and utility easements of record, and the restrictive covenants set forth in said Book 123, Page 45",
+      "source": "document_extraction",
+      "document": "title commitment Schedule B",
+      "date": "2026-06-08"
+    },
+    "closing.date": {
+      "value": "2026-06-09",
+      "source": "client_intake",
+      "date": "2026-06-09",
+      "basis": "scheduled closing"
+    },
+    "execution.date": {
+      "value": "9th day of June, 2026",
+      "source": "client_intake",
+      "date": "2026-06-09"
+    },
+    "acknowledgment.county": {
+      "value": "York",
+      "source": "client_intake",
+      "date": "2026-06-09"
+    },
+    "acknowledgment.date": {
+      "value": "9th day of June, 2026",
+      "source": "client_intake",
+      "date": "2026-06-09"
+    },
+    "notary.name": {
+      "value": "Blake L. Moe",
+      "source": "client_intake",
+      "date": "2026-06-09"
+    },
+    "notary.commission_expires": {
+      "value": "March 14, 2031",
+      "source": "client_intake",
+      "date": "2026-06-09"
+    },
+    "recording.return_to": {
+      "value": "Reese G. Moe, 1 Jane M. Public, Portland, ME 04101",
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-09"
+    }
+  }
+}

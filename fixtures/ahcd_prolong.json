@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "end_of_life_choice": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "principal elects to prolong life as long as possible; directive left undated for in-office signing before witnesses"
+    }
+  },
+  "end_of_life_choice": "prolong",
+  "principal_name": "John K. Coe",
+  "principal_municipality": "Jordan H. Coe",
+  "principal_state": "Maine",
+  "agent_name": "Pat D. Loe",
+  "agent_address": "340 Example Street, Anytown, Maine 03900",
+  "require_artificial_nutrition": true,
+  "month_year": "June, 2026"
+}

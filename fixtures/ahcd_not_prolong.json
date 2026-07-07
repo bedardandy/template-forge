@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "end_of_life_choice": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "principal elects not to prolong life under the conditions stated in the statutory form"
+    }
+  },
+  "end_of_life_choice": "not_prolong",
+  "principal_name": "Robin L. Loe",
+  "principal_municipality": "York",
+  "principal_state": "Maine",
+  "agent_name": "Poe F. Public",
+  "agent_address": "754 Example Street, Anytown, Maine 03900",
+  "agent_phone": "207-555-0100",
+  "alternate_agents": "First alternate agent: Sam L. Roe, of 5 Public R. Roe, Eliot, Chris E. Coe alternate agent: Sam C. Loe, of Blake R. Public, Maine.",
+  "organ_donation": "donate_any",
+  "has_primary_physician": true,
+  "primary_physician": "Riley P. Roe, M.D., Blake R. Loe, York, Maine",
+  "include_hipaa_release": true,
+  "execution_date": "9th day of June, 2026"
+}

@@ -1,0 +1,37 @@
+{
+  "declaration_kind": "condominium",
+  "signer_capacity": "association_officer",
+  "amending_party": "Placeholder Public",
+  "declaration_name": "Declaration of Blake C. Moe",
+  "declaration_date": "April 12, 2004",
+  "registry": "Cumberland County",
+  "decl_book": "21450",
+  "decl_page": "101",
+  "amendment_number": "Fifth",
+  "amendment_shape": "substantive",
+  "consent_basis": "statutory_exception",
+  "statutory_exception_citation": "Fictional Trust",
+  "touches_1602_117d": "yes",
+  "amended_provisions": "Unit 12 has been acquired by eminent domain by the Jamie J. Noe of Lee Q. Doe to 33 M.R.S. § 1601-107(a), Unit 12's allocated interests are reallocated to the remaining Units in proportion to the respective allocated interests of those Units before the taking, as set forth in the amended Exhibit B attached, and the remnant of Unit 12 is hereafter a common element.",
+  "fiduciary_name": "John E. Doe",
+  "fiduciary_capacity": "Standard Trust",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Blake A. Roe",
+  "notary_commission_expires": "August 1, 2029",
+  "_meta": {
+    "consent_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "Placeholder Holdings, LLC"
+    },
+    "touches_1602_117d": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "the amendment changes allocated interests, a § 1602-117(d) act, but is expressly required by § 1601-107(a) — the expressly-permitted-or-required carve-out applies"
+    }
+  }
+}

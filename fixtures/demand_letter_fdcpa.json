@@ -1,0 +1,29 @@
+{
+  "demand_kind": "fdcpa_debt",
+  "validation_notice_posture": "provided_separately",
+  "letter_date": "June 16, 2026",
+  "recipient_name": "John N. Doe",
+  "recipient_address": "79 Example Street, Anytown, Maine 03900",
+  "re_line": "Placeholder Holdings, LLC",
+  "matter_description": "the collection of the past-due account described below",
+  "client_name": "Acme Association",
+  "creditor_name": "Placeholder LLC",
+  "account_reference": "Quinn C. Doe 88-1042",
+  "background": "Our client's records show an unpaid balance of $1,262.50 for dental services provided to you between September 2025 and January 2026. Statements mailed to you on February 1, March 1, and April 1, 2026 remain unpaid.",
+  "demand_amount": "$1,262.50",
+  "deadline": "July 20, 2026",
+  "closing": "Very truly yours,",
+  "signer_name": "Jane M. Moe",
+  "signer_title": "Placeholder Inc.",
+  "firm_name": "Sample Inc.",
+  "_meta": {
+    "demand_kind": {
+      "source": "attorney_determination",
+      "detail": "attorney determined the firm is acting as a debt collector regularly collecting a consumer debt owed to another (15 U.S.C. § 1692a(6); 32 M.R.S. § 11002) and that the account is a personal/family/household-purpose debt; FDCPA applicability is never inferred by the template"
+    },
+    "validation_notice_posture": {
+      "source": "attorney_determination",
+      "detail": "a 12 C.F.R. § 1006.34-compliant validation notice (Chris V. Poe1) is delivered with this letter; the letter itself is not the validation notice"
+    }
+  }
+}

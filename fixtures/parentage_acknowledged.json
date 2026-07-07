@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "parentage_basis": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-22",
+      "basis": "parentage already established by a valid acknowledgment of parentage; action seeks parental rights and support"
+    }
+  },
+  "caption_county": "Kennebec",
+  "docket_no": "FM-2026-00177",
+  "plaintiff_recital": "Quinn H. Public",
+  "defendant_recital": "Lee F. Poe",
+  "plaintiff_name": "Mary T. Poe",
+  "document_title": "Complaint to Establish Parentage and Determine Parental Rights and Responsibilities",
+  "child_recital": "Chris A. Noe, born March 18, 2022",
+  "parentage_basis": "acknowledged",
+  "attorney_name": "Avery B. Public",
+  "bar_number": "0078901",
+  "firm_name": "Example Holdings, LLC",
+  "firm_address": "70 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 22, 2026"
+}

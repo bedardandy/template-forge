@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://template-forge.dev/schema/slot.schema.json",
+  "title": "SlotDef",
+  "description": "A single fill-in slot in a block or template. Structure only: a slot names a value the engine fills at render time and declares its type and PII relationship. A slot MUST NOT carry an example value or any real content.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Slot token as it appears in the Jinja2 body (e.g. the identifier between {{ }}). Snake_case identifier; carries no value.",
+      "pattern": "^[a-z][a-z0-9_]*$"
+    },
+    "slot_type": {
+      "type": "string",
+      "description": "The kind of value the slot carries. Drives quasi-identifier detection in mining and validation in the engine.",
+      "enum": [
+        "text",
+        "name",
+        "date",
+        "amount",
+        "address",
+        "email",
+        "phone",
+        "case_number",
+        "registry_ref",
+        "enum",
+        "flag"
+      ],
+      "default": "text"
+    },
+    "required": {
+      "type": "boolean",
+      "description": "Whether the engine must have a value for this slot before the document is considered complete.",
+      "default": false
+    },
+    "pii_class": {
+      "type": "string",
+      "description": "How this slot relates to PII in the source corpus. See the pii_parametrized / pii_residual conventions in README.md.",
+      "enum": ["none", "pii_parametrized", "pii_residual"],
+      "default": "none"
+    },
+    "enum": {
+      "type": ["array", "null"],
+      "description": "Allowed values, used only when slot_type == 'enum'. Each value is a structural token, not content.",
+      "items": { "type": "string" },
+      "default": null
+    },
+    "description": {
+      "type": "string",
+      "description": "Human hint for the slot. MUST NOT contain example content, real values, or firm-specific text.",
+      "default": ""
+    }
+  },
+  "allOf": [
+    {
+      "$comment": "If slot_type is 'enum', an enum list should be provided.",
+      "if": { "properties": { "slot_type": { "const": "enum" } }, "required": ["slot_type"] },
+      "then": { "required": ["enum"], "properties": { "enum": { "type": "array", "minItems": 1 } } }
+    }
+  ]
+}

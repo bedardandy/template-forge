@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "foreign_reporting_company": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-07-03",
+      "basis": "entity is being formed under Maine law, so it is a U.S.-formed entity exempt from BOI reporting under the Mar. 2025 FinCEN interim final rule"
+    }
+  },
+  "letter_date": "June 16, 2026",
+  "recipient_name": "Acme Roe, LLC",
+  "recipient_address": "671 Example Street, Anytown, Maine 03900",
+  "re_line": "Placeholder Cooperative",
+  "salutation": "Morgan E. Noe:",
+  "matter_description": "Fictional Noe",
+  "scope_description": "preparing the certificate of formation, operating agreement, and organizational resolutions, and advising on initial governance",
+  "firm_name": "Fictional Roe, LLC",
+  "fee_basis": "flat",
+  "flat_fee": "$2,500",
+  "retainer": "$1,000",
+  "entity_formation_matter": true,
+  "foreign_reporting_company": false,
+  "closing": "Sincerely,",
+  "signer_name": "Quinn R. Coe",
+  "signer_title": "Partner"
+}

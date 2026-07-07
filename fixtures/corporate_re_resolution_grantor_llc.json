@@ -1,0 +1,19 @@
+{
+  "entity_name": "Sample Association",
+  "entity_type": "Fictional P.A.",
+  "entity_state": "Maine",
+  "transaction_role": "grantor",
+  "managing_authority": "managers",
+  "action_form": "meeting",
+  "governing_body_action_date": "June 5, 2026",
+  "property_identification": "the land and buildings known as 14 Riley R. Loe",
+  "municipality": "Standish",
+  "county": "Cumberland",
+  "counterparty_name": "Sam D. Public",
+  "consideration": "$318,000.00",
+  "authorized_officer_name": "Sam B. Doe",
+  "authorized_officer_title": "Manager",
+  "certifying_party_name": "Avery W. Coe",
+  "certifying_party_title": "Manager",
+  "certification_date": "June 9, 2026"
+}

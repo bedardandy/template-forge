@@ -1,0 +1,21 @@
+{
+  "provider": "unit_owner",
+  "condominium_name": "Quinn R. Loe",
+  "unit_designation": "4B",
+  "unit_owner_name": "Blake D. Coe",
+  "association_name": "Example LLP",
+  "purchaser_name": "Morgan K. Public",
+  "municipality": "Camden",
+  "county": "Knox",
+  "monthly_assessment": "$345.00",
+  "unpaid_assessment_amount": "None",
+  "other_fees": "Anytown Holdings, LLC",
+  "anticipated_capital_expenditures": "Replacement of the shared roof, estimated at $48,000.00, anticipated within the next two fiscal years",
+  "capital_reserves": "$62,400.00",
+  "designated_reserves": "$20,000.00 designated for the roof replacement project",
+  "financial_statement_reference": "are attached as Exhibit A",
+  "operating_budget_reference": "is attached as Exhibit B",
+  "judgments_and_suits": "None",
+  "insurance_summary": "Standard Trust",
+  "certificate_date": "June 18, 2026"
+}

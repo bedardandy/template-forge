@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "distribution_scheme": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "unmarried testator; entire estate to descendants by representation; minor children require a guardian nomination and a self-proving affidavit"
+    }
+  },
+  "testator_name": "Avery F. Doe",
+  "testator_municipality": "Sam B. Loe",
+  "testator_county": "York",
+  "testator_state": "Maine",
+  "children_recital": "I am the parent of two minor children, John M. Moe and Chris F. Loe",
+  "distribution_scheme": "descendants_per_stirpes",
+  "specific_bequests": "I give and bequeath my coin collection to my brother, Morgan J. Coe, if he survives me.",
+  "personal_representative_name": "Morgan J. Coe, of Eliot, Maine",
+  "has_minor_children": true,
+  "guardian_name": "Sam T. Doe, of Eliot, Maine",
+  "successor_guardian_name": "Quinn E. Loe, of Kittery, Maine",
+  "self_proving": true,
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Avery J. Public",
+  "notary_commission_expires": "March 14, 2031"
+}

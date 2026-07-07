@@ -1,0 +1,21 @@
+{
+  "easement_action": "release",
+  "grantor_name": "Anytown Loe, LLC",
+  "grantor_municipality": "Portland",
+  "grantor_county": "Cumberland",
+  "grantor_state": "Maine",
+  "grantee_name": "Fictional Association",
+  "grantee_address": "782 Poe Street, Anytown, Maine 03900",
+  "easement_purpose": "vehicular and pedestrian ingress and egress",
+  "source_instrument": "an Easement Deed dated June 9, 2026 and recorded in the York County Registry of Deeds in Book 4321, Page 100",
+  "consideration": "$1.00",
+  "municipality": "Kittery",
+  "county": "York",
+  "legal_description": "The land of the Grantee at 100 State Road, Kittery, shown on a plan recorded in the York County Registry of Deeds in Book 401, Page 12, formerly burdened by the released easement.",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Morgan R. Poe",
+  "notary_commission_expires": "May 1, 2030",
+  "easement_origin": "express"
+}

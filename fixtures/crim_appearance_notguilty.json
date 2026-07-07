@@ -1,0 +1,18 @@
+{
+  "caption_county": "York",
+  "court_location": "Biddeford",
+  "docket_no": "CR-2026-00567",
+  "defendant_recital": "Dana H. Coe",
+  "defendant_name": "Alex J. Doe",
+  "document_title": "Entry of Appearance and Plea",
+  "jury_demand": true,
+  "served": true,
+  "service_date": "June 22, 2026",
+  "service_method": "first-class mail, postage prepaid",
+  "service_recipient": "Office of the District Attorney, York County, 45 Avery W. Roe, Alfred, Maine 04002",
+  "attorney_name": "Lee L. Noe",
+  "bar_number": "0067890",
+  "firm_name": "Acme Cooperative",
+  "firm_address": "223 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 22, 2026"
+}

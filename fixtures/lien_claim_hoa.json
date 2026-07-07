@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "lien_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-10",
+      "basis": "condominium assessment lien is perfected by the recorded declaration (33 M.R.S. § 1603-116(d)); record the § 1603-116(h) statement of unpaid assessments, not a sworn claim"
+    }
+  },
+  "lien_kind": "hoa_assessment",
+  "association_name": "Acme Holdings, LLC",
+  "condo_name": "John F. Noe",
+  "registry": "Cumberland County",
+  "decl_book": "21450",
+  "decl_page": "101",
+  "unit_number": "7",
+  "municipality": "Portland",
+  "county": "Cumberland",
+  "unit_owner_name": "Chris C. Roe",
+  "unpaid_amount": "$2,140.00",
+  "charges_detail": "late charges and interest accrued to the date of this statement",
+  "fiduciary_name": "Sam P. Doe",
+  "fiduciary_capacity": "Acme Moe",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Dana P. Noe",
+  "notary_commission_expires": "August 1, 2029"
+}

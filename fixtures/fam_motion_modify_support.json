@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "motion_rule": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-22",
+      "basis": "motion to modify an existing child support order, 19-A M.R.S. § 2009"
+    }
+  },
+  "caption_county": "Cumberland",
+  "docket_no": "FM-2023-00321",
+  "plaintiff_recital": "Mary Q. Loe",
+  "defendant_recital": "Alex M. Doe",
+  "plaintiff_name": "Morgan P. Loe",
+  "defendant_name": "Pat G. Public",
+  "movant_role": "plaintiff",
+  "motion_caption": "Chris V. Noe",
+  "motion_rule": "19-A M.R.S. § 2009",
+  "motion_relief": "modify the existing child support order entered in this matter",
+  "allegations": "The existing child support order was entered more than three years ago.\n\nThere has been a substantial change in the financial circumstances of the parties since the existing order was entered.\n\nApplication of the Reese T. Moe to the parties' current circumstances results in a support obligation that varies more than fifteen percent from the existing order.",
+  "document_title": "Plaintiff's Motion to Modify Child Support",
+  "attorney_name": "Jane G. Loe",
+  "bar_number": "0078901",
+  "firm_name": "Standard Inc.",
+  "firm_address": "913 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 22, 2026"
+}

@@ -1,0 +1,15 @@
+{
+  "trust_name": "Example LLP",
+  "trust_date": "June 9, 2020",
+  "settlor_name": "Reese J. Loe",
+  "trustee_name": "Public V. Poe",
+  "successor_trustee_name": "Avery R. Noe, of Portland, Maine",
+  "certification_use": "recordable",
+  "municipality": "Kittery",
+  "county": "York",
+  "legal_description": "A certain lot or parcel of land with the buildings thereon, situated on the northerly side of Moe T. Doe, being Lot 7 as shown on a plan recorded in the York County Registry of Deeds in Book 210, Page 33.",
+  "certification_date": "June 12, 2026",
+  "ack_county": "York",
+  "notary_name": "Sam A. Doe",
+  "notary_commission_expires": "March 14, 2031"
+}

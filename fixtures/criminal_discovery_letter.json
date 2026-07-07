@@ -1,0 +1,18 @@
+{
+  "letter_date": "June 16, 2026",
+  "recipient_name": "Office of the District Attorney",
+  "recipient_address": "948 Example Street, Anytown, Maine 03900",
+  "re_line": "State of Maine v. Roe P. Doe, Alex L. Noe2026-0457",
+  "defendant_name": "Quinn R. Noe",
+  "additional_requests": [
+    "The computer-aided dispatch (CAD) log and radio dispatch recordings for the incident of January 12, 2026.",
+    "Maintenance, calibration, and certification records for the breath-testing instrument used in this matter for the twelve months preceding the test."
+  ],
+  "closing": "Very truly yours,",
+  "signer_name": "Lee G. Coe",
+  "signer_title": "Attorney for Defendant",
+  "service_date": "June 16, 2026",
+  "served_party": "the Office of the District Attorney, Cumberland County",
+  "serving_party": "Noe H. Loe, Esq.",
+  "document_label": "Request for Discovery"
+}

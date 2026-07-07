@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "document_label": {
+      "source": "client_intake",
+      "basis": "title of the paper actually served"
+    }
+  },
+  "caption_county": "Cumberland",
+  "court_division": "SUPERIOR COURT",
+  "docket_no": "CV-2026-00321",
+  "plaintiff_recital": "Dana B. Loe",
+  "defendant_recital": "Sample Association",
+  "service_date": "June 26, 2026",
+  "served_party": "Placeholder LLP",
+  "served_attorney": "Dana H. Moe, Esq.",
+  "serving_party": "Reese Q. Poe, Esq., Attorney for the Plaintiff",
+  "document_label": "Plaintiff's First Set of Interrogatories and Requests for Production of Documents",
+  "service_method": "first class mail, postage prepaid, addressed to counsel's office of record"
+}

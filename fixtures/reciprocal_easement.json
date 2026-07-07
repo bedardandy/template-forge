@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "instrument": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "reciprocal cross-easement over a shared way; cross-grant only, no maintenance/cost terms"
+    }
+  },
+  "instrument": "reciprocal_easement",
+  "parties_recital": "Quinn B. Public, of 1 Sam M. Roe, York, County of York, State of Maine, owner of Lot 1; and Dana H. Noe, of 2 Sam M. Roe, York, County of York, State of Maine, owner of Lot 2",
+  "way_name": "Drew L. Roe",
+  "benefited_lots": "Lots 1 and 2 as shown on a plan entitled \"Chris A. Noe, Riley N. Doe, York, Maine\" recorded in the York County Registry of Deeds in Book 222, Page 33",
+  "easement_purpose": "vehicular and pedestrian ingress and egress and the installation, maintenance, repair and replacement of underground utilities serving the benefited lots",
+  "municipality": "York",
+  "county": "York",
+  "legal_description": "A private way fifty (50) feet in width, known as Blake F. Doe, running northerly from the northerly sideline of Chris J. Noe to the terminus shown on said plan recorded in the York County Registry of Deeds in Book 222, Page 33.",
+  "has_appurtenant_rights": true,
+  "appurtenant_rights": "the right to connect to and use the drainage swale located within the Way for the benefit of each benefited lot",
+  "registry": "York County",
+  "signers": [
+    {
+      "name": "Quinn N. Doe",
+      "role": "Owner"
+    },
+    {
+      "name": "Lee D. Public",
+      "role": "Owner"
+    }
+  ],
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "York",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Lee D. Noe",
+  "notary_commission_expires": "March 14, 2031"
+}

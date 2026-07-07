@@ -1,0 +1,18 @@
+{
+  "letter_date": "June 16, 2026",
+  "recipient_name": "Knox County Registry of Deeds",
+  "recipient_address": "370 Example Street, Anytown, Maine 03900",
+  "re_line": "47 Jamie P. Public, Camden, Maine — Recording",
+  "enclosures": [
+    "Dana V. Poe from Riley Q. Loe to Jane V. Poe, with Maine real estate transfer tax declaration;",
+    "Acme LLC",
+    "Our firm's check no. 1042 in payment of the recording fees and transfer tax."
+  ],
+  "enclosure_purpose": "recording",
+  "recording_instructions": "Please record the enclosed instruments in the order listed above.",
+  "return_instructions": "Anytown Trust",
+  "closing": "Very truly yours,",
+  "signer_name": "Lee F. Loe",
+  "signer_title": "Attorney at Law",
+  "firm_name": "Widget Company"
+}

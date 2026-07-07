@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "motion_rule": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-22",
+      "basis": "post-judgment motion to modify parental rights and responsibilities on a substantial change in circumstances, 19-A M.R.S. § 1657"
+    }
+  },
+  "caption_county": "Penobscot",
+  "docket_no": "FM-2024-00455",
+  "plaintiff_recital": "Riley A. Poe",
+  "defendant_recital": "Drew L. Noe",
+  "plaintiff_name": "Drew V. Coe",
+  "defendant_name": "Riley Q. Moe",
+  "movant_role": "defendant",
+  "motion_caption": "Robin V. Public",
+  "motion_rule": "19-A M.R.S. § 1657",
+  "motion_relief": "modify the existing order of parental rights and responsibilities entered in this matter",
+  "allegations": "On or about July 15, 2024, this Court entered a Judgment establishing the parties' parental rights and responsibilities with respect to the parties' minor children.\n\nSince the entry of that Judgment, there has been a substantial change in the circumstances of the parties and the children.\n\nThe modification requested is in the best interest of the minor children.",
+  "proposed_order": true,
+  "document_title": "Defendant's Motion to Modify Parental Rights and Responsibilities",
+  "served": true,
+  "service_date": "June 22, 2026",
+  "service_method": "first-class mail, postage prepaid",
+  "service_recipient": "Anytown P.A.",
+  "attorney_name": "Avery W. Poe",
+  "bar_number": "0067890",
+  "firm_name": "Placeholder Cooperative",
+  "firm_address": "884 Example Street, Anytown, Maine 03900",
+  "signing_date": "June 22, 2026"
+}

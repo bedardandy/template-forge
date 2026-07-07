@@ -1,0 +1,110 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://template-forge.dev/schema/block.schema.json",
+  "title": "BlockDef",
+  "description": "Metadata for one reusable clause block. STRUCTURE ONLY. The clause body is never inline here: it lives in a separate partial file inside a pack, referenced by the 'partial' path. Variant bodies (the actual drafted text) are likewise NOT part of this public schema and are supplied only by a private pack.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["block_id", "function"],
+  "properties": {
+    "block_id": {
+      "type": "string",
+      "description": "Stable identifier for the block within a pack.",
+      "minLength": 1
+    },
+    "function": {
+      "type": "string",
+      "description": "One of the clause-function taxonomy labels (see clause_functions.json). Names what role the block plays in a document; enumeration against the taxonomy is optional so a pack may introduce new functions.",
+      "minLength": 1
+    },
+    "subtype": {
+      "type": "string",
+      "description": "Finer-grained variant of the function (structural label only).",
+      "default": ""
+    },
+    "scope": {
+      "type": "string",
+      "description": "Where the block is applicable: 'universal', a practice area, or 'specific'. Free-form label; common values observed include universal, general, cross_practice, and per-practice-area scopes.",
+      "default": "universal"
+    },
+    "jurisdiction": {
+      "type": "string",
+      "description": "Jurisdiction the block is written for.",
+      "default": "general",
+      "examples": ["general", "ME", "NH", "federal"]
+    },
+    "statutory_citation": {
+      "type": ["string", "null"],
+      "description": "Governing statutory or rule citation for the block, if any (public law; may cross-reference the citation authority table).",
+      "default": null
+    },
+    "triggers": {
+      "type": "string",
+      "description": "Natural-language description of when the block is used. Structural hint only, no client content.",
+      "default": ""
+    },
+    "confidence": {
+      "type": "string",
+      "description": "Curator confidence in the block metadata.",
+      "default": "high",
+      "examples": ["high", "medium", "low"]
+    },
+    "slots": {
+      "type": "array",
+      "description": "Fill-in slots declared by the block.",
+      "items": { "$ref": "slot.schema.json" },
+      "default": []
+    },
+    "partial": {
+      "type": "string",
+      "description": "Relative path to the block body (a Jinja2 partial) within the pack. The body itself is a separate file and is NOT included in this metadata. In a published pack this path may point to a body supplied only by a private pack.",
+      "default": ""
+    },
+    "variants": {
+      "type": "array",
+      "description": "Structural alternatives for the block. Each variant ships its id, signal category, trigger, confidence, and corpus count. The variant BODY (the drafted 'text') is intentionally excluded from this public schema and is supplied only by a private pack.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["variant_id"],
+        "properties": {
+          "variant_id": {
+            "type": "string",
+            "description": "Stable identifier for the variant.",
+            "minLength": 1
+          },
+          "signal_category": {
+            "type": "string",
+            "description": "The actionable deviation category that this variant responds to.",
+            "enum": [
+              "fact_pattern",
+              "party_role",
+              "jurisdiction",
+              "citation_update",
+              "scope_expansion",
+              "scope_restriction"
+            ],
+            "default": "fact_pattern"
+          },
+          "trigger": {
+            "type": "string",
+            "description": "Natural-language condition describing when this variant applies.",
+            "default": ""
+          },
+          "confidence": {
+            "type": "string",
+            "description": "Curator confidence in the variant.",
+            "default": "medium"
+          },
+          "count": {
+            "type": ["integer", "null"],
+            "description": "Corpus frequency of the variant, when known (metadata only).",
+            "minimum": 0,
+            "default": null
+          }
+        }
+      },
+      "default": []
+    }
+  }
+}

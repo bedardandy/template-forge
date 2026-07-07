@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "declaration_kind": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "termination of a condominium under 33 M.R.S. § 1602-118 by the required vote of unit owners"
+    },
+    "action": {
+      "source": "attorney_determination",
+      "author": "Reviewing Attorney",
+      "date": "2026-06-11",
+      "basis": "rescission/termination of the recorded condominium declaration, not an amendment"
+    }
+  },
+  "declaration_kind": "condominium",
+  "action": "rescind",
+  "declarant_capacity": "entity_officer",
+  "declarant": "Fictional Company",
+  "declaration_name": "Declaration of Quinn M. Noe",
+  "municipality": "Portland",
+  "county": "Cumberland",
+  "prior_decl_registry": "Cumberland County",
+  "prior_decl_book": "32500",
+  "prior_decl_page": "88",
+  "legal_description": "The land submitted to the Avery Q. Poe by the Declaration recorded in the Cumberland County Registry of Deeds in Book 32500, Page 88, located on the easterly side of Quinn F. Poe in Portland, County of Cumberland, State of Maine.",
+  "registry": "Cumberland County",
+  "fiduciary_name": "Chris L. Moe",
+  "fiduciary_capacity": "Widget LLC",
+  "execution_date": "9th day of June, 2026",
+  "ack_county": "Cumberland",
+  "acknowledgment_date": "9th day of June, 2026",
+  "notary_name": "Reese B. Poe",
+  "notary_commission_expires": "August 1, 2029"
+}
