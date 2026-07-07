@@ -36,6 +36,23 @@ copyrightable; this table is a research aid and is **not legal advice**. Always 
 citation against its `source_url` before relying on it — statutes are amended and
 recodified.
 
+## Canonical per-jurisdiction sources (going forward)
+
+This bundled table remains in place as the reference source for the demo/example pack and
+as the fallback when no jurisdiction module is installed. **Going forward the canonical,
+per-jurisdiction citation sources are the published jurisdiction modules** —
+[`jurisdiction-maine`](https://github.com/bedardandy/jurisdiction-maine) (`US-ME`) and
+[`jurisdiction-federal`](https://github.com/bedardandy/jurisdiction-federal) (`US`) — each
+of which vendors its own citation provider behind the
+[`legal-jurisdictions`](https://github.com/bedardandy/legal-jurisdictions) contract, with a
+conformance kit that asserts every citation carries a resolving public `source_url` and a
+`verified_on` date.
+
+`template_forge.engine.jurisdiction` is the additive hook that resolves citations (and a
+counting/service profile + slot vocabulary) from an installed module when a jurisdiction
+code is supplied, falling back to this table otherwise. The switch is additive and
+non-breaking — no jurisdiction argument still reads this table unchanged.
+
 ## `verified_on` / `verified_as_of` semantics
 
 `verified_on` is a point-in-time assertion: "as of this date, this citation was confirmed
