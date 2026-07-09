@@ -38,6 +38,24 @@ def test_label_and_variant_and_cleanup():
     assert any(v["signal_category"] in pipeline._ACTIONABLE for v in g.variants)
 
 
+def test_classify_deviation_both_citations_not_citation_update():
+    # Both sides carry a citation-shaped token ("5 A") but differ elsewhere:
+    # this is NOT a citation change and must fall through to scope/fact/stylistic.
+    dominant = "Damages are capped at 5 A under this agreement for the year."
+    variant = "Damages are capped at 5 A under this contract for the period."
+    cat = pipeline._classify_deviation(dominant, variant)
+    assert cat != "citation_update"
+    assert cat in {"scope_expansion", "scope_restriction", "fact_pattern",
+                   "stylistic"}
+
+
+def test_classify_deviation_one_sided_citation_is_citation_update():
+    # A citation token present on exactly one side IS a citation change.
+    dominant = "The fee is set out in the schedule attached to this agreement."
+    variant = "The fee is set out in 5 A of the schedule attached to this deal."
+    assert pipeline._classify_deviation(dominant, variant) == "citation_update"
+
+
 def test_write_pack_structure_only(tmp_path):
     segments = ["The parties agree to indemnify and hold harmless from all claims and losses."]
     groups = pipeline.dedup_clauses(segments)
