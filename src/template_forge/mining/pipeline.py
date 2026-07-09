@@ -274,7 +274,8 @@ def _classify_deviation(dominant: str, variant: str) -> str:
     juris_cues = {"maine", "hampshire", "massachusetts", "state"}
     if added & juris_cues or removed & juris_cues:
         return "jurisdiction"
-    if re.search(r"\b\d+[- ]?[A-Z]\b", variant) != re.search(r"\b\d+[- ]?[A-Z]\b", dominant):
+    cite_pat = r"\b\d+[- ]?[A-Z]\b"
+    if bool(re.search(cite_pat, variant)) != bool(re.search(cite_pat, dominant)):
         return "citation_update"
     if len(v_words) > len(d_words) * 1.15:
         return "scope_expansion"
